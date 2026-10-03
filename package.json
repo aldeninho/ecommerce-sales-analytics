@@ -1,0 +1,15 @@
+{
+  "name": "ecommerce-sales-analytics",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build_project.mjs",
+    "build:db": "python scripts/build_database.py",
+    "diagram": "node scripts/make_model_diagram.mjs"
+  },
+  "dependencies": {
+    "@oai/artifact-tool": "^2.8.59",
+    "@viz-js/viz": "^3.25.0"
+  }
+}
