@@ -6,6 +6,10 @@ An end-to-end SQL and Power BI portfolio case study designed for Data Analyst, R
 
 ![Executive dashboard preview](outputs/dashboard.png)
 
+## Project demo
+
+![Project demo](outputs/demo.gif)
+
 ## Key insights
 
 - **Gross margin is healthy at 32.2%** on $2.22M net revenue, but contribution profit is $631.6K — shipping, returns, and cancellations take it down to a 28.4% contribution margin.
