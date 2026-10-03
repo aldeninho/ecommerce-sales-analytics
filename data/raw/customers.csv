@@ -1,0 +1,721 @@
+customer_id,customer_name,segment,signup_date,region_id,acquisition_channel
+C0001,Sophia Lewis,Consumer,2023-06-19,R05,Paid Search
+C0002,Sophia Moore,Consumer,2023-11-12,R07,Organic Search
+C0003,Leo Jackson,Consumer,2022-01-19,R05,Referral
+C0004,Amelia White,Consumer,2021-04-12,R03,Organic Search
+C0005,James Jackson,Small Business,2021-08-13,R02,Social
+C0006,Mia Johnson,Small Business,2023-12-24,R08,Email
+C0007,Aria Johnson,Consumer,2021-11-24,R04,Organic Search
+C0008,Lucas White,Consumer,2021-02-27,R02,Referral
+C0009,Lucas Kim,Consumer,2021-10-12,R06,Social
+C0010,Leo Johnson,Small Business,2022-04-05,R03,Referral
+C0011,Henry Lee,Consumer,2023-11-27,R05,Paid Search
+C0012,Aria Kim,Corporate,2022-01-07,R06,Marketplace
+C0013,Olivia Garcia,Corporate,2023-11-11,R03,Referral
+C0014,Mason Davis,Consumer,2022-02-22,R05,Referral
+C0015,Ethan Thomas,Consumer,2021-04-20,R08,Email
+C0016,Mia Anderson,Consumer,2022-12-02,R05,Organic Search
+C0017,Elijah Walker,Consumer,2023-06-18,R07,Referral
+C0018,Mason Kim,Small Business,2021-12-18,R08,Marketplace
+C0019,Zoe Moore,Consumer,2022-09-11,R02,Paid Search
+C0020,Aria Garcia,Small Business,2023-07-27,R01,Paid Search
+C0021,Henry Wilson,Corporate,2023-12-03,R05,Email
+C0022,Amelia Lee,Consumer,2023-08-16,R02,Referral
+C0023,Elijah Lee,Consumer,2023-10-05,R08,Referral
+C0024,Mason Wilson,Small Business,2023-12-10,R07,Organic Search
+C0025,Sophia Patel,Small Business,2021-11-18,R03,Social
+C0026,Mia Patel,Corporate,2021-08-06,R06,Paid Search
+C0027,Leo Moore,Consumer,2023-11-24,R07,Referral
+C0028,Ethan Harris,Corporate,2022-09-03,R08,Paid Search
+C0029,Sophia Clark,Consumer,2023-01-25,R08,Organic Search
+C0030,Liam Walker,Small Business,2022-12-07,R01,Paid Search
+C0031,Amelia Walker,Corporate,2022-01-09,R07,Paid Search
+C0032,Zoe Wilson,Small Business,2021-01-17,R05,Organic Search
+C0033,Amelia Clark,Consumer,2022-05-19,R02,Email
+C0034,Elijah Johnson,Consumer,2023-04-24,R07,Paid Search
+C0035,Emma Kim,Consumer,2022-12-02,R06,Organic Search
+C0036,Lucas Patel,Consumer,2021-07-01,R08,Organic Search
+C0037,Noah Kim,Small Business,2023-01-16,R03,Referral
+C0038,Aria Moore,Consumer,2023-06-11,R01,Email
+C0039,Ava Harris,Corporate,2021-09-08,R04,Social
+C0040,Mia Taylor,Consumer,2021-06-09,R07,Referral
+C0041,Henry Jackson,Corporate,2021-01-01,R04,Organic Search
+C0042,Zoe Walker,Consumer,2023-09-17,R01,Paid Search
+C0043,Maya Clark,Consumer,2022-02-08,R01,Social
+C0044,Noah Kim,Consumer,2023-01-01,R06,Organic Search
+C0045,Emma Thomas,Corporate,2023-04-09,R01,Referral
+C0046,Henry Singh,Consumer,2023-04-13,R02,Paid Search
+C0047,Liam Davis,Consumer,2022-07-20,R03,Social
+C0048,Layla Thomas,Corporate,2022-08-13,R08,Email
+C0049,Emma Lee,Consumer,2021-11-23,R04,Paid Search
+C0050,Leo Lewis,Corporate,2021-06-03,R06,Organic Search
+C0051,Mason Clark,Small Business,2023-11-09,R03,Organic Search
+C0052,Elijah Singh,Corporate,2023-09-22,R04,Referral
+C0053,Layla Davis,Consumer,2022-05-21,R02,Paid Search
+C0054,Maya Lewis,Consumer,2022-10-18,R02,Paid Search
+C0055,Amelia Brown,Corporate,2022-08-24,R02,Email
+C0056,Olivia Jackson,Consumer,2023-09-22,R06,Referral
+C0057,Amelia White,Consumer,2022-10-23,R05,Organic Search
+C0058,Henry Taylor,Small Business,2021-11-26,R01,Paid Search
+C0059,Mia Singh,Small Business,2022-06-08,R02,Organic Search
+C0060,Olivia Thomas,Consumer,2023-04-10,R06,Organic Search
+C0061,Nora Clark,Consumer,2023-12-23,R08,Paid Search
+C0062,Maya Jackson,Consumer,2022-01-01,R02,Paid Search
+C0063,Liam Brown,Corporate,2023-05-22,R01,Social
+C0064,Henry White,Consumer,2021-11-14,R03,Email
+C0065,Leo Harris,Small Business,2023-08-19,R03,Referral
+C0066,Leo Brown,Small Business,2023-08-19,R08,Paid Search
+C0067,Olivia Brown,Corporate,2021-11-21,R04,Email
+C0068,Aria Taylor,Consumer,2023-09-17,R04,Social
+C0069,Mia Anderson,Consumer,2022-08-08,R05,Organic Search
+C0070,Elijah Clark,Consumer,2022-02-15,R03,Social
+C0071,Ethan Wilson,Small Business,2021-10-05,R06,Referral
+C0072,Ethan Kim,Small Business,2021-06-21,R01,Organic Search
+C0073,Leo White,Corporate,2023-05-05,R04,Social
+C0074,Mia Clark,Corporate,2023-09-03,R05,Social
+C0075,Leo Singh,Consumer,2021-01-12,R05,Marketplace
+C0076,Sophia Anderson,Consumer,2022-05-18,R02,Social
+C0077,Elijah Moore,Corporate,2021-11-06,R07,Organic Search
+C0078,Ava Singh,Consumer,2022-05-17,R03,Referral
+C0079,Maya Jackson,Consumer,2022-09-26,R02,Email
+C0080,Nora Kim,Corporate,2021-02-11,R04,Social
+C0081,Lucas Walker,Small Business,2023-05-15,R05,Social
+C0082,Mia Walker,Corporate,2021-07-09,R06,Paid Search
+C0083,Leo Taylor,Small Business,2022-06-23,R08,Social
+C0084,Ethan Brown,Consumer,2023-01-07,R07,Referral
+C0085,Mia Martinez,Consumer,2021-01-04,R06,Email
+C0086,Noah Kim,Consumer,2021-07-26,R02,Social
+C0087,Mason Brown,Small Business,2021-04-24,R02,Referral
+C0088,Aria White,Consumer,2021-05-21,R01,Organic Search
+C0089,Ava Martinez,Corporate,2023-12-01,R01,Organic Search
+C0090,Liam Brown,Consumer,2022-12-11,R03,Social
+C0091,Aria White,Consumer,2023-02-17,R04,Social
+C0092,Maya Johnson,Small Business,2023-06-10,R07,Paid Search
+C0093,Lucas Lee,Consumer,2021-07-05,R06,Social
+C0094,Zoe Singh,Corporate,2021-07-10,R01,Email
+C0095,Aria Wilson,Consumer,2021-04-24,R04,Referral
+C0096,Amelia Moore,Small Business,2021-06-07,R03,Email
+C0097,Olivia Davis,Consumer,2023-02-22,R04,Marketplace
+C0098,Ava Johnson,Consumer,2023-11-08,R03,Social
+C0099,Henry Johnson,Consumer,2022-05-21,R03,Paid Search
+C0100,Henry Moore,Small Business,2022-02-19,R07,Social
+C0101,Layla Garcia,Corporate,2023-12-22,R07,Social
+C0102,Emma White,Corporate,2023-03-19,R04,Social
+C0103,Ava Kim,Consumer,2023-07-25,R02,Paid Search
+C0104,Aria Thomas,Corporate,2021-11-14,R03,Social
+C0105,Aria Taylor,Consumer,2022-07-14,R02,Organic Search
+C0106,Layla Harris,Consumer,2021-04-19,R08,Referral
+C0107,Henry Moore,Consumer,2022-03-18,R08,Organic Search
+C0108,Mason White,Consumer,2021-03-09,R05,Paid Search
+C0109,James Taylor,Consumer,2023-02-17,R04,Email
+C0110,Sophia Lee,Small Business,2022-08-19,R07,Paid Search
+C0111,Layla Garcia,Consumer,2022-08-10,R03,Social
+C0112,Maya Thomas,Consumer,2023-02-01,R04,Referral
+C0113,Leo Garcia,Consumer,2021-11-09,R01,Organic Search
+C0114,Nora Brown,Consumer,2022-09-07,R05,Social
+C0115,Amelia Taylor,Small Business,2021-10-02,R07,Organic Search
+C0116,Ethan Moore,Consumer,2021-12-15,R08,Paid Search
+C0117,Liam Martinez,Small Business,2023-07-18,R03,Organic Search
+C0118,James Walker,Consumer,2023-07-10,R03,Paid Search
+C0119,Layla Martinez,Small Business,2021-02-08,R01,Social
+C0120,Emma Moore,Consumer,2022-04-10,R01,Marketplace
+C0121,Ethan Clark,Corporate,2022-04-12,R03,Social
+C0122,Sophia Patel,Corporate,2021-12-10,R01,Paid Search
+C0123,Noah Wilson,Small Business,2022-02-11,R08,Paid Search
+C0124,Liam Taylor,Consumer,2022-12-12,R03,Email
+C0125,Henry Wilson,Corporate,2023-07-23,R07,Paid Search
+C0126,Ava Patel,Small Business,2022-05-16,R03,Email
+C0127,Mason Johnson,Small Business,2022-09-08,R07,Organic Search
+C0128,Emma Patel,Consumer,2022-08-04,R04,Organic Search
+C0129,Henry Walker,Small Business,2023-01-18,R06,Email
+C0130,James Martinez,Consumer,2022-10-15,R02,Organic Search
+C0131,James Singh,Corporate,2021-01-18,R06,Paid Search
+C0132,Aria Davis,Consumer,2023-02-20,R01,Organic Search
+C0133,Layla Thomas,Consumer,2022-01-04,R05,Paid Search
+C0134,Aria Wilson,Small Business,2022-05-19,R06,Organic Search
+C0135,James Harris,Small Business,2023-09-21,R03,Social
+C0136,Sophia Lewis,Consumer,2022-05-01,R08,Paid Search
+C0137,Layla Martinez,Consumer,2021-04-12,R05,Social
+C0138,Aria Walker,Consumer,2023-11-12,R04,Email
+C0139,James Garcia,Consumer,2023-04-08,R05,Referral
+C0140,Leo Patel,Corporate,2023-02-25,R04,Marketplace
+C0141,Layla Harris,Consumer,2022-07-05,R05,Paid Search
+C0142,Elijah Harris,Consumer,2021-12-11,R04,Paid Search
+C0143,Ethan Davis,Consumer,2023-09-06,R04,Referral
+C0144,Ethan Johnson,Small Business,2023-02-04,R04,Marketplace
+C0145,Maya Clark,Consumer,2021-06-09,R02,Organic Search
+C0146,Maya Harris,Consumer,2022-09-05,R02,Organic Search
+C0147,Lucas White,Corporate,2021-01-15,R08,Organic Search
+C0148,Lucas Clark,Small Business,2022-04-26,R03,Organic Search
+C0149,Mason Davis,Corporate,2022-10-08,R08,Referral
+C0150,Aria Clark,Small Business,2021-08-10,R02,Social
+C0151,Layla Martinez,Consumer,2021-06-26,R02,Organic Search
+C0152,Liam Lee,Consumer,2023-04-01,R06,Social
+C0153,Mia Clark,Corporate,2022-09-09,R04,Referral
+C0154,Ethan Garcia,Corporate,2023-02-16,R01,Organic Search
+C0155,Layla White,Consumer,2021-04-08,R06,Social
+C0156,Lucas Lewis,Consumer,2022-11-09,R08,Social
+C0157,Noah Kim,Corporate,2021-09-24,R08,Social
+C0158,Noah Taylor,Consumer,2021-12-05,R04,Marketplace
+C0159,Mason White,Small Business,2021-03-08,R04,Organic Search
+C0160,Henry Garcia,Consumer,2022-01-04,R07,Paid Search
+C0161,Zoe Lewis,Consumer,2021-01-06,R08,Marketplace
+C0162,Maya White,Consumer,2023-03-20,R02,Social
+C0163,Leo Garcia,Consumer,2023-02-18,R04,Marketplace
+C0164,Aria Kim,Consumer,2021-03-08,R06,Referral
+C0165,Elijah Lewis,Consumer,2021-06-24,R05,Organic Search
+C0166,Emma Garcia,Consumer,2023-04-05,R04,Social
+C0167,Liam Walker,Consumer,2023-12-21,R03,Paid Search
+C0168,Mia Jackson,Consumer,2021-04-05,R04,Paid Search
+C0169,Aria Clark,Corporate,2023-10-12,R04,Paid Search
+C0170,Noah Brown,Consumer,2023-03-06,R02,Email
+C0171,Zoe Jackson,Consumer,2023-06-18,R06,Social
+C0172,James Harris,Consumer,2021-08-20,R06,Paid Search
+C0173,Mason Anderson,Consumer,2023-07-22,R02,Paid Search
+C0174,Lucas Harris,Consumer,2023-12-14,R08,Marketplace
+C0175,Layla Lewis,Consumer,2021-01-02,R03,Social
+C0176,Mia Jackson,Consumer,2022-07-12,R08,Organic Search
+C0177,Liam Lewis,Consumer,2021-06-26,R04,Paid Search
+C0178,Elijah Harris,Small Business,2022-11-21,R01,Referral
+C0179,Mason Singh,Corporate,2023-04-15,R05,Paid Search
+C0180,Leo Singh,Corporate,2022-09-20,R04,Organic Search
+C0181,Mia Taylor,Consumer,2023-06-22,R01,Paid Search
+C0182,Sophia Walker,Small Business,2022-11-02,R07,Referral
+C0183,Amelia Patel,Consumer,2021-01-17,R07,Social
+C0184,Emma Singh,Consumer,2022-07-10,R03,Email
+C0185,James Clark,Small Business,2022-06-24,R02,Organic Search
+C0186,Ava Clark,Consumer,2023-04-17,R01,Paid Search
+C0187,Nora Davis,Consumer,2022-08-23,R05,Referral
+C0188,Aria Lewis,Small Business,2023-03-13,R03,Paid Search
+C0189,Liam Martinez,Corporate,2021-09-13,R04,Paid Search
+C0190,Lucas Garcia,Corporate,2022-07-20,R07,Marketplace
+C0191,Amelia Davis,Consumer,2022-11-09,R03,Paid Search
+C0192,Aria Jackson,Corporate,2023-02-02,R03,Marketplace
+C0193,Elijah Martinez,Consumer,2022-09-01,R07,Email
+C0194,Lucas Martinez,Small Business,2023-11-14,R08,Social
+C0195,Zoe White,Consumer,2021-12-12,R07,Paid Search
+C0196,Lucas Kim,Consumer,2023-12-22,R03,Social
+C0197,Zoe Clark,Small Business,2022-02-11,R03,Social
+C0198,Noah Singh,Small Business,2021-11-08,R06,Organic Search
+C0199,Zoe Walker,Consumer,2021-03-24,R07,Referral
+C0200,Noah White,Corporate,2023-01-26,R02,Marketplace
+C0201,Leo Clark,Consumer,2022-05-25,R02,Organic Search
+C0202,Lucas Taylor,Corporate,2021-09-24,R07,Paid Search
+C0203,Zoe Brown,Consumer,2021-04-06,R04,Referral
+C0204,Olivia Patel,Corporate,2023-06-16,R05,Email
+C0205,Zoe Garcia,Corporate,2021-08-16,R08,Organic Search
+C0206,Maya Lewis,Consumer,2021-12-26,R06,Paid Search
+C0207,Liam Clark,Consumer,2021-06-23,R01,Marketplace
+C0208,Amelia Wilson,Consumer,2021-06-09,R03,Social
+C0209,Layla Patel,Consumer,2022-07-06,R06,Email
+C0210,Mason Wilson,Small Business,2023-10-04,R03,Organic Search
+C0211,Olivia Clark,Consumer,2022-07-22,R02,Paid Search
+C0212,Mason Singh,Consumer,2022-01-03,R01,Paid Search
+C0213,Ava Davis,Corporate,2022-08-20,R03,Email
+C0214,Lucas Johnson,Consumer,2022-09-09,R04,Referral
+C0215,Lucas Patel,Small Business,2021-06-24,R06,Referral
+C0216,Lucas Moore,Consumer,2021-04-09,R08,Referral
+C0217,Ava Jackson,Small Business,2023-01-07,R03,Paid Search
+C0218,Ethan Lee,Small Business,2021-10-01,R05,Email
+C0219,Layla Taylor,Consumer,2022-09-24,R04,Social
+C0220,Lucas Anderson,Consumer,2021-03-17,R06,Paid Search
+C0221,Amelia Davis,Corporate,2023-04-04,R06,Marketplace
+C0222,Mason Anderson,Small Business,2021-01-01,R06,Marketplace
+C0223,Leo Garcia,Corporate,2021-08-07,R06,Organic Search
+C0224,James Garcia,Corporate,2021-03-12,R08,Paid Search
+C0225,James Jackson,Corporate,2021-02-26,R05,Organic Search
+C0226,Emma Moore,Small Business,2022-07-23,R02,Organic Search
+C0227,Sophia Johnson,Small Business,2022-10-10,R03,Paid Search
+C0228,Aria Martinez,Corporate,2023-12-23,R01,Organic Search
+C0229,James Taylor,Small Business,2021-09-22,R03,Social
+C0230,Aria Singh,Corporate,2022-04-26,R05,Email
+C0231,Amelia Martinez,Consumer,2023-06-20,R02,Referral
+C0232,Ava Anderson,Consumer,2021-06-17,R04,Social
+C0233,Layla Lewis,Consumer,2021-11-07,R01,Social
+C0234,Lucas Brown,Corporate,2023-12-03,R08,Paid Search
+C0235,Mia Martinez,Corporate,2023-10-14,R06,Paid Search
+C0236,Elijah Martinez,Consumer,2023-01-23,R04,Email
+C0237,Olivia Patel,Corporate,2021-05-24,R05,Social
+C0238,Mia Patel,Corporate,2021-12-21,R04,Social
+C0239,Olivia Martinez,Corporate,2021-04-21,R04,Paid Search
+C0240,Mason Johnson,Corporate,2023-11-27,R02,Marketplace
+C0241,Amelia Walker,Consumer,2023-08-14,R05,Organic Search
+C0242,Maya Wilson,Small Business,2023-11-22,R08,Marketplace
+C0243,Ethan Walker,Consumer,2023-07-20,R08,Referral
+C0244,Noah Wilson,Corporate,2022-03-12,R03,Paid Search
+C0245,Emma Clark,Consumer,2021-09-04,R01,Marketplace
+C0246,Lucas Anderson,Corporate,2021-06-13,R07,Paid Search
+C0247,James Garcia,Consumer,2021-08-02,R01,Referral
+C0248,Amelia Moore,Consumer,2023-06-02,R07,Organic Search
+C0249,Zoe Anderson,Consumer,2022-04-13,R07,Organic Search
+C0250,Sophia Garcia,Consumer,2021-04-06,R02,Social
+C0251,Sophia Harris,Consumer,2023-05-05,R07,Paid Search
+C0252,Liam Garcia,Consumer,2022-01-04,R03,Organic Search
+C0253,Layla Thomas,Consumer,2023-03-14,R03,Paid Search
+C0254,Sophia White,Consumer,2023-01-26,R02,Paid Search
+C0255,Elijah Anderson,Consumer,2023-10-06,R06,Email
+C0256,Aria Moore,Consumer,2023-06-17,R05,Email
+C0257,Sophia Clark,Consumer,2021-07-11,R02,Social
+C0258,Liam Harris,Consumer,2023-09-07,R07,Referral
+C0259,Maya Davis,Consumer,2021-07-09,R07,Organic Search
+C0260,Ava Garcia,Consumer,2021-12-27,R07,Paid Search
+C0261,Mia Taylor,Consumer,2021-05-23,R08,Paid Search
+C0262,Ava White,Corporate,2021-12-16,R08,Social
+C0263,Ethan Davis,Corporate,2022-12-25,R02,Social
+C0264,Zoe Moore,Consumer,2021-09-21,R07,Referral
+C0265,Liam Davis,Corporate,2023-12-20,R06,Organic Search
+C0266,Henry Martinez,Small Business,2022-04-14,R03,Paid Search
+C0267,Mason Walker,Consumer,2022-03-03,R03,Email
+C0268,Olivia Anderson,Corporate,2023-07-10,R01,Referral
+C0269,Emma Brown,Consumer,2023-03-04,R06,Social
+C0270,Ethan Kim,Consumer,2021-08-07,R03,Social
+C0271,Nora Garcia,Consumer,2023-08-13,R05,Social
+C0272,Layla Brown,Corporate,2021-08-11,R07,Referral
+C0273,Henry Davis,Consumer,2023-10-18,R02,Social
+C0274,Emma Johnson,Corporate,2021-06-16,R03,Social
+C0275,Leo White,Corporate,2023-04-06,R08,Organic Search
+C0276,Mason Singh,Consumer,2021-03-26,R05,Paid Search
+C0277,Henry Kim,Small Business,2021-11-27,R07,Paid Search
+C0278,Sophia Jackson,Consumer,2022-12-17,R02,Referral
+C0279,Sophia Lewis,Consumer,2022-07-12,R07,Paid Search
+C0280,Noah Lewis,Corporate,2023-01-02,R01,Organic Search
+C0281,Emma Lee,Corporate,2021-03-16,R07,Paid Search
+C0282,Henry Thomas,Consumer,2021-12-11,R06,Paid Search
+C0283,Mia Kim,Consumer,2022-12-17,R03,Paid Search
+C0284,Zoe Moore,Small Business,2023-03-25,R06,Social
+C0285,Olivia Wilson,Consumer,2021-04-12,R05,Organic Search
+C0286,Amelia Singh,Consumer,2021-11-14,R04,Social
+C0287,Layla Garcia,Consumer,2021-08-19,R07,Paid Search
+C0288,Sophia Lee,Small Business,2022-11-17,R04,Social
+C0289,Nora Garcia,Corporate,2022-08-06,R03,Social
+C0290,Leo Anderson,Small Business,2023-03-13,R08,Referral
+C0291,Nora Patel,Consumer,2023-03-22,R05,Organic Search
+C0292,Zoe Taylor,Corporate,2023-08-20,R04,Referral
+C0293,Amelia Wilson,Small Business,2022-07-27,R07,Email
+C0294,Olivia Johnson,Small Business,2022-04-11,R08,Referral
+C0295,Noah Anderson,Consumer,2023-01-23,R03,Organic Search
+C0296,Leo Wilson,Consumer,2021-04-07,R07,Marketplace
+C0297,Elijah Thomas,Small Business,2022-12-16,R06,Email
+C0298,Elijah Garcia,Small Business,2023-05-14,R06,Email
+C0299,Henry Martinez,Corporate,2023-05-21,R06,Referral
+C0300,Lucas Johnson,Corporate,2022-07-14,R03,Email
+C0301,Sophia Kim,Corporate,2022-09-02,R07,Paid Search
+C0302,Henry Harris,Consumer,2021-06-18,R05,Social
+C0303,Ethan Johnson,Consumer,2023-01-22,R05,Paid Search
+C0304,Nora Lewis,Consumer,2021-04-06,R01,Email
+C0305,Lucas Thomas,Corporate,2022-07-01,R08,Organic Search
+C0306,Emma Taylor,Consumer,2021-12-22,R05,Organic Search
+C0307,Henry Moore,Consumer,2023-02-21,R07,Organic Search
+C0308,Noah Patel,Consumer,2021-02-02,R02,Organic Search
+C0309,Leo Thomas,Corporate,2023-10-23,R07,Marketplace
+C0310,Aria Harris,Consumer,2022-01-13,R08,Organic Search
+C0311,Leo Lewis,Corporate,2021-04-01,R05,Organic Search
+C0312,Lucas White,Corporate,2021-06-01,R08,Organic Search
+C0313,Olivia Lewis,Consumer,2023-02-17,R08,Organic Search
+C0314,Zoe Singh,Consumer,2023-07-21,R02,Marketplace
+C0315,Olivia Lee,Small Business,2021-02-06,R08,Paid Search
+C0316,Layla Harris,Consumer,2021-11-10,R06,Paid Search
+C0317,Leo Brown,Corporate,2022-05-27,R07,Social
+C0318,Amelia Garcia,Consumer,2021-07-24,R02,Social
+C0319,Elijah Singh,Small Business,2023-10-14,R04,Organic Search
+C0320,Maya Jackson,Consumer,2021-03-09,R03,Marketplace
+C0321,Henry Patel,Consumer,2022-01-18,R04,Referral
+C0322,Mia White,Consumer,2021-05-21,R05,Organic Search
+C0323,Lucas Thomas,Small Business,2023-09-23,R08,Marketplace
+C0324,Maya Taylor,Corporate,2023-12-20,R02,Referral
+C0325,Emma Harris,Corporate,2021-05-12,R01,Organic Search
+C0326,Henry Singh,Consumer,2023-03-03,R07,Email
+C0327,Olivia Kim,Small Business,2022-02-18,R04,Email
+C0328,Ava Harris,Consumer,2022-01-04,R06,Referral
+C0329,Ethan Clark,Consumer,2023-03-03,R04,Email
+C0330,Emma Moore,Consumer,2022-03-13,R03,Social
+C0331,Ava Moore,Consumer,2021-04-05,R04,Referral
+C0332,Maya Walker,Small Business,2023-02-05,R06,Social
+C0333,Olivia Wilson,Consumer,2022-06-17,R05,Referral
+C0334,Layla Thomas,Small Business,2021-06-16,R04,Paid Search
+C0335,Emma Moore,Consumer,2022-12-01,R07,Email
+C0336,Layla Brown,Small Business,2022-04-25,R01,Paid Search
+C0337,Amelia Anderson,Small Business,2021-08-10,R03,Paid Search
+C0338,Amelia Walker,Consumer,2023-07-01,R04,Organic Search
+C0339,Elijah Kim,Consumer,2023-10-15,R05,Organic Search
+C0340,Olivia Lee,Consumer,2022-02-02,R04,Social
+C0341,Henry Walker,Consumer,2021-07-25,R07,Paid Search
+C0342,Zoe Anderson,Consumer,2022-10-09,R02,Organic Search
+C0343,Nora Moore,Consumer,2022-04-19,R02,Social
+C0344,Mason Harris,Consumer,2021-06-25,R07,Referral
+C0345,Mason Davis,Small Business,2022-07-13,R04,Paid Search
+C0346,Olivia Garcia,Small Business,2022-12-11,R06,Organic Search
+C0347,Sophia Johnson,Consumer,2022-12-01,R07,Paid Search
+C0348,Emma Patel,Small Business,2021-09-10,R05,Marketplace
+C0349,Emma Wilson,Corporate,2022-03-11,R03,Marketplace
+C0350,Elijah Lee,Consumer,2021-10-12,R05,Social
+C0351,Henry Patel,Small Business,2022-08-23,R01,Marketplace
+C0352,Zoe Martinez,Consumer,2022-02-08,R04,Email
+C0353,Mason Kim,Consumer,2021-11-14,R05,Paid Search
+C0354,Mia Clark,Corporate,2023-10-19,R03,Paid Search
+C0355,Sophia Garcia,Consumer,2021-08-03,R08,Referral
+C0356,Maya Clark,Small Business,2021-09-14,R05,Email
+C0357,Aria White,Consumer,2023-08-27,R02,Organic Search
+C0358,Emma Jackson,Consumer,2021-07-03,R05,Email
+C0359,Layla Davis,Consumer,2023-10-12,R03,Paid Search
+C0360,Henry Brown,Corporate,2022-01-22,R02,Social
+C0361,Mia Thomas,Consumer,2022-07-10,R07,Marketplace
+C0362,Sophia Clark,Consumer,2022-06-20,R02,Social
+C0363,Ava Harris,Consumer,2022-07-06,R06,Organic Search
+C0364,James Taylor,Corporate,2023-02-22,R03,Organic Search
+C0365,Ava White,Consumer,2023-01-25,R04,Social
+C0366,Amelia Anderson,Consumer,2021-08-16,R07,Marketplace
+C0367,Sophia Kim,Consumer,2022-04-17,R03,Organic Search
+C0368,Emma Lewis,Consumer,2021-01-21,R07,Paid Search
+C0369,Emma Thomas,Consumer,2022-11-24,R08,Referral
+C0370,Maya Clark,Small Business,2023-08-10,R05,Social
+C0371,Layla Davis,Small Business,2021-08-05,R04,Social
+C0372,Olivia Brown,Small Business,2023-05-07,R01,Marketplace
+C0373,Sophia Walker,Corporate,2022-09-06,R05,Marketplace
+C0374,Elijah Walker,Consumer,2021-08-06,R01,Organic Search
+C0375,Liam Jackson,Consumer,2021-10-04,R04,Organic Search
+C0376,Lucas Wilson,Consumer,2023-01-27,R06,Social
+C0377,Henry Thomas,Corporate,2021-07-02,R04,Referral
+C0378,Nora Davis,Consumer,2021-11-07,R05,Referral
+C0379,Layla Brown,Corporate,2023-11-04,R08,Referral
+C0380,Nora Walker,Consumer,2021-01-09,R05,Social
+C0381,Layla Johnson,Corporate,2022-07-06,R02,Social
+C0382,James Brown,Corporate,2021-01-15,R01,Referral
+C0383,Amelia Johnson,Consumer,2021-03-02,R03,Email
+C0384,Olivia Garcia,Consumer,2021-01-27,R07,Organic Search
+C0385,Maya Patel,Small Business,2022-08-26,R05,Organic Search
+C0386,Nora Wilson,Consumer,2021-01-07,R03,Referral
+C0387,Maya Lee,Corporate,2022-09-20,R06,Email
+C0388,Sophia Brown,Small Business,2023-02-20,R03,Organic Search
+C0389,Mia Anderson,Consumer,2022-04-09,R03,Paid Search
+C0390,Liam Anderson,Small Business,2023-07-14,R04,Paid Search
+C0391,Ethan Clark,Small Business,2022-10-01,R01,Referral
+C0392,Amelia Thomas,Consumer,2021-12-24,R05,Organic Search
+C0393,Zoe Brown,Corporate,2022-10-16,R05,Organic Search
+C0394,Liam Wilson,Consumer,2023-02-10,R07,Organic Search
+C0395,Sophia Davis,Corporate,2022-01-22,R04,Social
+C0396,Emma Lee,Small Business,2022-11-09,R03,Marketplace
+C0397,Noah Jackson,Small Business,2021-12-06,R07,Social
+C0398,Liam Moore,Small Business,2023-04-12,R07,Organic Search
+C0399,Mason Lewis,Consumer,2021-07-15,R06,Paid Search
+C0400,Lucas Patel,Consumer,2022-08-20,R05,Referral
+C0401,Emma Lewis,Corporate,2022-08-07,R07,Organic Search
+C0402,Ava Brown,Corporate,2023-03-07,R05,Organic Search
+C0403,Amelia Wilson,Consumer,2023-12-25,R08,Referral
+C0404,Leo Martinez,Consumer,2023-03-03,R06,Organic Search
+C0405,Zoe Brown,Small Business,2022-07-13,R06,Marketplace
+C0406,Leo Patel,Corporate,2023-12-21,R04,Referral
+C0407,Maya Lee,Small Business,2022-07-25,R05,Paid Search
+C0408,Olivia Taylor,Consumer,2022-08-20,R08,Paid Search
+C0409,Maya Davis,Consumer,2022-11-06,R06,Email
+C0410,Layla Taylor,Consumer,2023-03-05,R01,Social
+C0411,Mason Jackson,Consumer,2023-09-22,R01,Organic Search
+C0412,Lucas Lee,Small Business,2022-10-06,R04,Organic Search
+C0413,Mason Patel,Consumer,2021-06-01,R07,Social
+C0414,Ethan Harris,Consumer,2021-05-24,R04,Paid Search
+C0415,Ava Wilson,Consumer,2021-03-02,R06,Organic Search
+C0416,Aria Jackson,Consumer,2021-04-13,R05,Organic Search
+C0417,Sophia Anderson,Small Business,2023-10-17,R07,Paid Search
+C0418,Ethan Lee,Consumer,2022-05-23,R04,Social
+C0419,Elijah Lewis,Consumer,2021-05-17,R05,Organic Search
+C0420,Mia Moore,Small Business,2022-02-27,R04,Paid Search
+C0421,Mason Thomas,Consumer,2023-02-18,R08,Organic Search
+C0422,Zoe Jackson,Corporate,2023-07-26,R02,Marketplace
+C0423,James Taylor,Small Business,2023-02-04,R04,Organic Search
+C0424,James Lewis,Consumer,2023-05-07,R04,Marketplace
+C0425,Layla Singh,Consumer,2023-05-20,R07,Marketplace
+C0426,Mia Walker,Corporate,2023-08-13,R04,Paid Search
+C0427,Sophia Davis,Consumer,2021-01-26,R06,Referral
+C0428,Ethan Wilson,Consumer,2022-05-04,R05,Paid Search
+C0429,Zoe Harris,Consumer,2021-11-03,R02,Paid Search
+C0430,Aria Thomas,Corporate,2022-11-03,R01,Marketplace
+C0431,Maya Lewis,Consumer,2022-01-27,R03,Social
+C0432,Noah Lewis,Small Business,2022-11-18,R01,Social
+C0433,Ava Lewis,Small Business,2021-05-17,R07,Referral
+C0434,Henry Clark,Consumer,2022-06-12,R04,Organic Search
+C0435,Zoe Taylor,Consumer,2023-01-16,R01,Marketplace
+C0436,Layla Clark,Consumer,2023-01-25,R08,Paid Search
+C0437,Layla Clark,Consumer,2021-08-27,R02,Social
+C0438,Aria Martinez,Consumer,2022-07-05,R02,Organic Search
+C0439,Mia Wilson,Small Business,2023-02-09,R01,Organic Search
+C0440,Lucas Taylor,Corporate,2021-01-27,R07,Social
+C0441,Mason Clark,Corporate,2023-03-21,R06,Email
+C0442,Aria Taylor,Consumer,2023-06-24,R07,Referral
+C0443,Ava Davis,Consumer,2021-10-08,R05,Email
+C0444,Amelia Anderson,Consumer,2021-06-12,R01,Referral
+C0445,Noah Martinez,Consumer,2022-07-20,R01,Email
+C0446,Aria Moore,Consumer,2022-09-03,R01,Organic Search
+C0447,Elijah Brown,Small Business,2023-11-26,R02,Referral
+C0448,Amelia Garcia,Consumer,2021-12-18,R05,Organic Search
+C0449,Ethan Anderson,Consumer,2022-03-18,R05,Referral
+C0450,Nora Harris,Corporate,2022-04-06,R04,Organic Search
+C0451,James Johnson,Consumer,2023-01-02,R05,Email
+C0452,Sophia Garcia,Consumer,2023-11-25,R04,Email
+C0453,Sophia Kim,Consumer,2022-03-27,R07,Referral
+C0454,Aria Taylor,Consumer,2022-02-22,R05,Referral
+C0455,Ava White,Small Business,2022-08-08,R06,Email
+C0456,Maya White,Consumer,2022-06-02,R03,Paid Search
+C0457,Mia Thomas,Consumer,2023-07-26,R08,Organic Search
+C0458,Maya Brown,Small Business,2022-11-25,R08,Paid Search
+C0459,Mason Johnson,Consumer,2021-04-19,R02,Social
+C0460,Emma Patel,Consumer,2021-01-06,R03,Marketplace
+C0461,Nora Patel,Corporate,2023-06-07,R07,Social
+C0462,Liam Lewis,Small Business,2023-02-17,R04,Referral
+C0463,James Taylor,Consumer,2023-08-14,R06,Paid Search
+C0464,Ethan Lee,Corporate,2022-09-01,R06,Social
+C0465,Mia White,Small Business,2022-10-15,R04,Organic Search
+C0466,Elijah Wilson,Corporate,2022-08-07,R03,Marketplace
+C0467,Noah Brown,Corporate,2021-11-17,R08,Social
+C0468,Henry Johnson,Corporate,2021-03-04,R06,Social
+C0469,Mia White,Consumer,2022-03-25,R05,Organic Search
+C0470,Mia Lee,Small Business,2021-05-12,R07,Referral
+C0471,Nora Anderson,Corporate,2021-05-17,R06,Referral
+C0472,Mason Martinez,Consumer,2021-02-20,R06,Paid Search
+C0473,Aria Moore,Small Business,2021-01-12,R05,Marketplace
+C0474,Liam Walker,Consumer,2022-06-27,R03,Organic Search
+C0475,James Singh,Consumer,2021-08-26,R08,Organic Search
+C0476,Aria Clark,Consumer,2023-12-27,R05,Organic Search
+C0477,Layla Singh,Consumer,2022-11-11,R03,Organic Search
+C0478,Ethan Harris,Corporate,2022-06-05,R03,Social
+C0479,Amelia Moore,Corporate,2022-03-03,R04,Paid Search
+C0480,Nora Clark,Consumer,2023-12-07,R03,Organic Search
+C0481,Maya Brown,Corporate,2021-02-16,R07,Referral
+C0482,Amelia Martinez,Consumer,2021-01-15,R01,Paid Search
+C0483,Sophia Brown,Consumer,2021-12-01,R06,Organic Search
+C0484,Liam Clark,Consumer,2021-10-06,R05,Referral
+C0485,Zoe Patel,Corporate,2023-05-01,R04,Referral
+C0486,Zoe Thomas,Small Business,2023-12-01,R03,Social
+C0487,Aria Singh,Small Business,2022-08-21,R07,Paid Search
+C0488,Aria Johnson,Small Business,2023-10-21,R08,Paid Search
+C0489,Layla Jackson,Consumer,2021-06-04,R04,Social
+C0490,Layla Moore,Consumer,2021-05-15,R06,Social
+C0491,Emma Moore,Consumer,2023-09-06,R04,Social
+C0492,Layla Martinez,Small Business,2023-12-02,R02,Paid Search
+C0493,Aria Lee,Consumer,2021-03-17,R01,Referral
+C0494,Ethan Thomas,Corporate,2023-11-05,R03,Email
+C0495,Ethan Jackson,Consumer,2022-11-25,R04,Email
+C0496,Sophia Walker,Consumer,2022-09-05,R04,Referral
+C0497,James Davis,Consumer,2022-01-01,R02,Marketplace
+C0498,Mia Kim,Small Business,2023-08-06,R04,Referral
+C0499,Noah Anderson,Small Business,2023-06-27,R03,Social
+C0500,James Singh,Consumer,2021-05-04,R01,Social
+C0501,Aria Lee,Consumer,2023-12-01,R04,Social
+C0502,Elijah Thomas,Small Business,2021-05-01,R04,Email
+C0503,Lucas Taylor,Corporate,2022-05-20,R01,Organic Search
+C0504,Olivia Moore,Corporate,2021-06-08,R06,Social
+C0505,Sophia Johnson,Consumer,2021-05-26,R02,Social
+C0506,Ethan White,Consumer,2023-08-01,R06,Referral
+C0507,Mia Clark,Consumer,2022-04-06,R04,Social
+C0508,Lucas Singh,Consumer,2023-01-09,R04,Referral
+C0509,Lucas Lee,Corporate,2021-04-09,R03,Organic Search
+C0510,Layla Brown,Consumer,2023-12-01,R06,Marketplace
+C0511,Lucas Johnson,Small Business,2022-10-11,R04,Organic Search
+C0512,Elijah Clark,Corporate,2021-02-19,R05,Marketplace
+C0513,Ava Brown,Small Business,2021-11-11,R01,Organic Search
+C0514,James Lewis,Consumer,2023-11-10,R04,Organic Search
+C0515,Sophia Moore,Consumer,2023-06-01,R05,Email
+C0516,James Martinez,Consumer,2021-12-15,R07,Organic Search
+C0517,Aria Garcia,Consumer,2021-09-05,R06,Paid Search
+C0518,Mia Lewis,Consumer,2023-03-07,R01,Referral
+C0519,Ethan Harris,Corporate,2023-05-23,R03,Organic Search
+C0520,Nora Brown,Corporate,2022-02-01,R05,Referral
+C0521,Mason Jackson,Consumer,2022-09-07,R08,Email
+C0522,Layla Clark,Corporate,2023-10-02,R08,Organic Search
+C0523,Ava Walker,Consumer,2022-12-21,R07,Social
+C0524,James Wilson,Consumer,2021-10-18,R08,Social
+C0525,Zoe Lewis,Corporate,2023-11-09,R02,Email
+C0526,Leo Patel,Consumer,2023-04-04,R02,Organic Search
+C0527,Ava Jackson,Consumer,2022-10-12,R02,Referral
+C0528,Layla Walker,Consumer,2023-04-05,R04,Email
+C0529,Mason Johnson,Consumer,2021-04-17,R06,Email
+C0530,Aria Patel,Consumer,2021-07-09,R01,Referral
+C0531,Amelia Kim,Small Business,2021-09-07,R01,Organic Search
+C0532,Ava Taylor,Corporate,2023-02-11,R07,Paid Search
+C0533,Elijah Lee,Consumer,2023-01-22,R02,Marketplace
+C0534,Leo Walker,Consumer,2021-02-04,R01,Social
+C0535,Ethan Clark,Consumer,2023-03-16,R07,Social
+C0536,Sophia Lee,Corporate,2022-08-06,R03,Organic Search
+C0537,Ethan Anderson,Consumer,2022-03-27,R02,Paid Search
+C0538,Zoe Anderson,Corporate,2022-10-12,R04,Social
+C0539,Henry Lee,Consumer,2022-04-18,R01,Email
+C0540,Elijah Wilson,Corporate,2021-10-13,R04,Organic Search
+C0541,Zoe Garcia,Corporate,2023-08-01,R03,Paid Search
+C0542,Zoe Clark,Consumer,2021-02-25,R01,Email
+C0543,Ava Johnson,Consumer,2022-11-24,R01,Paid Search
+C0544,Olivia Kim,Consumer,2022-01-04,R06,Social
+C0545,Maya Garcia,Corporate,2022-03-16,R06,Organic Search
+C0546,Ethan Anderson,Corporate,2023-02-17,R06,Paid Search
+C0547,Aria Garcia,Consumer,2021-05-06,R08,Organic Search
+C0548,Sophia Lewis,Consumer,2022-01-15,R03,Marketplace
+C0549,Mia Garcia,Consumer,2021-01-13,R08,Paid Search
+C0550,Olivia Davis,Consumer,2022-11-20,R08,Paid Search
+C0551,Elijah Moore,Consumer,2023-04-13,R01,Referral
+C0552,Elijah Harris,Consumer,2022-06-23,R08,Organic Search
+C0553,Emma Patel,Small Business,2022-12-06,R04,Social
+C0554,Maya Johnson,Consumer,2021-07-03,R04,Organic Search
+C0555,Ethan Anderson,Consumer,2022-10-16,R04,Email
+C0556,Sophia Davis,Consumer,2021-10-13,R07,Social
+C0557,Lucas Kim,Consumer,2023-02-20,R05,Paid Search
+C0558,Layla Anderson,Consumer,2023-06-26,R05,Marketplace
+C0559,Lucas Clark,Small Business,2023-05-16,R07,Email
+C0560,Elijah Lee,Consumer,2022-09-22,R07,Organic Search
+C0561,Mia Thomas,Small Business,2021-02-06,R08,Referral
+C0562,Mia Brown,Consumer,2023-04-01,R06,Email
+C0563,Amelia Davis,Small Business,2021-06-16,R02,Email
+C0564,James Davis,Small Business,2022-02-09,R03,Organic Search
+C0565,Nora Thomas,Corporate,2022-04-12,R06,Paid Search
+C0566,Sophia Patel,Consumer,2023-12-18,R04,Referral
+C0567,Aria Lee,Small Business,2023-02-21,R01,Organic Search
+C0568,Nora Davis,Consumer,2023-09-11,R07,Marketplace
+C0569,Ethan Lee,Consumer,2021-03-04,R06,Paid Search
+C0570,Sophia Davis,Consumer,2022-02-13,R02,Referral
+C0571,Nora Johnson,Small Business,2023-03-23,R06,Email
+C0572,Elijah Wilson,Corporate,2021-01-26,R05,Paid Search
+C0573,Leo Davis,Consumer,2022-11-03,R01,Paid Search
+C0574,Zoe Harris,Consumer,2022-08-01,R06,Social
+C0575,Elijah Johnson,Small Business,2023-03-01,R04,Paid Search
+C0576,Olivia Johnson,Consumer,2022-01-16,R05,Referral
+C0577,Ava Moore,Corporate,2021-01-01,R06,Referral
+C0578,Emma Clark,Consumer,2022-12-18,R01,Social
+C0579,Olivia Johnson,Small Business,2023-12-06,R08,Email
+C0580,Ethan Singh,Consumer,2022-04-27,R04,Referral
+C0581,Leo Davis,Consumer,2023-06-22,R06,Social
+C0582,Mason Taylor,Consumer,2021-05-09,R07,Organic Search
+C0583,Maya Thomas,Corporate,2023-12-13,R07,Organic Search
+C0584,Elijah Singh,Consumer,2021-05-11,R05,Referral
+C0585,Ava Lewis,Consumer,2023-07-22,R01,Referral
+C0586,Emma Lee,Consumer,2021-04-04,R05,Organic Search
+C0587,Amelia Thomas,Consumer,2022-06-04,R05,Organic Search
+C0588,Ethan White,Corporate,2021-09-15,R01,Social
+C0589,Elijah Lee,Consumer,2022-08-10,R01,Paid Search
+C0590,Ava Garcia,Consumer,2021-02-07,R06,Social
+C0591,Nora Patel,Corporate,2023-11-07,R02,Paid Search
+C0592,James Lewis,Consumer,2021-01-19,R08,Marketplace
+C0593,Maya Moore,Consumer,2023-05-07,R01,Paid Search
+C0594,Noah Kim,Consumer,2021-10-01,R01,Email
+C0595,James Clark,Small Business,2021-03-18,R04,Paid Search
+C0596,Liam Jackson,Corporate,2022-03-12,R07,Marketplace
+C0597,Elijah Anderson,Small Business,2023-11-24,R01,Email
+C0598,Zoe Clark,Consumer,2021-09-27,R06,Email
+C0599,Noah Lewis,Consumer,2021-06-23,R04,Organic Search
+C0600,James Walker,Consumer,2022-12-25,R05,Social
+C0601,Elijah Lewis,Consumer,2023-11-27,R07,Email
+C0602,Maya Harris,Small Business,2023-05-09,R06,Marketplace
+C0603,Elijah Patel,Consumer,2023-06-12,R08,Referral
+C0604,Amelia Patel,Consumer,2021-03-20,R07,Social
+C0605,Henry Johnson,Corporate,2023-12-15,R04,Organic Search
+C0606,Leo Thomas,Consumer,2021-09-24,R04,Organic Search
+C0607,Amelia Thomas,Small Business,2021-05-16,R06,Organic Search
+C0608,James Walker,Consumer,2023-06-21,R06,Organic Search
+C0609,Lucas Taylor,Consumer,2023-06-04,R06,Organic Search
+C0610,Ethan Davis,Consumer,2021-05-05,R02,Marketplace
+C0611,Elijah Jackson,Small Business,2022-10-08,R01,Paid Search
+C0612,Nora Moore,Consumer,2023-05-16,R05,Marketplace
+C0613,Maya Clark,Consumer,2022-11-16,R02,Organic Search
+C0614,Lucas Garcia,Corporate,2022-06-17,R04,Paid Search
+C0615,Henry Anderson,Corporate,2021-03-14,R06,Referral
+C0616,Nora Taylor,Corporate,2022-08-05,R02,Social
+C0617,Mia Walker,Small Business,2023-07-23,R03,Paid Search
+C0618,Emma Clark,Consumer,2022-03-15,R04,Social
+C0619,Sophia Martinez,Corporate,2023-08-23,R07,Organic Search
+C0620,Lucas Johnson,Consumer,2023-01-12,R04,Marketplace
+C0621,Layla Lee,Consumer,2021-01-25,R08,Marketplace
+C0622,Liam Thomas,Small Business,2021-10-21,R05,Social
+C0623,Ava Johnson,Consumer,2023-06-15,R08,Paid Search
+C0624,Mia Patel,Corporate,2023-03-07,R05,Organic Search
+C0625,Olivia Brown,Consumer,2023-02-14,R02,Social
+C0626,Ava Walker,Small Business,2021-11-15,R07,Organic Search
+C0627,Henry Garcia,Consumer,2022-07-22,R06,Email
+C0628,Amelia Kim,Consumer,2021-02-04,R04,Paid Search
+C0629,Liam White,Small Business,2022-08-19,R01,Paid Search
+C0630,Lucas Lee,Consumer,2021-04-07,R01,Organic Search
+C0631,Leo Moore,Consumer,2021-12-02,R03,Referral
+C0632,Liam Thomas,Consumer,2021-03-04,R08,Referral
+C0633,Mia Garcia,Consumer,2021-04-01,R03,Social
+C0634,Lucas Johnson,Consumer,2021-09-02,R06,Organic Search
+C0635,James Martinez,Consumer,2023-07-07,R04,Social
+C0636,Ava Patel,Small Business,2021-01-12,R01,Social
+C0637,Elijah Patel,Consumer,2023-11-10,R04,Paid Search
+C0638,Elijah Jackson,Consumer,2021-07-02,R03,Paid Search
+C0639,Lucas Johnson,Small Business,2023-07-17,R01,Email
+C0640,Henry Johnson,Consumer,2021-06-05,R01,Paid Search
+C0641,Mason White,Small Business,2022-02-20,R03,Social
+C0642,Mia Taylor,Corporate,2022-09-08,R05,Referral
+C0643,Amelia Garcia,Consumer,2023-10-08,R01,Email
+C0644,Liam Taylor,Consumer,2022-12-27,R08,Email
+C0645,Ava Brown,Corporate,2023-06-02,R03,Paid Search
+C0646,Zoe Lewis,Consumer,2021-09-21,R03,Referral
+C0647,Nora Wilson,Consumer,2021-10-02,R06,Paid Search
+C0648,Elijah Johnson,Small Business,2022-03-26,R04,Paid Search
+C0649,Noah Jackson,Consumer,2021-09-03,R04,Referral
+C0650,Zoe Walker,Small Business,2022-12-17,R05,Social
+C0651,Liam Walker,Small Business,2022-03-07,R01,Organic Search
+C0652,Henry White,Corporate,2022-09-05,R06,Social
+C0653,Aria Garcia,Consumer,2022-02-11,R03,Organic Search
+C0654,Liam Clark,Consumer,2021-07-12,R04,Paid Search
+C0655,Noah White,Consumer,2023-10-01,R04,Paid Search
+C0656,Maya Patel,Consumer,2023-12-16,R04,Organic Search
+C0657,Maya Patel,Small Business,2022-10-09,R01,Organic Search
+C0658,Noah Walker,Corporate,2021-05-04,R08,Email
+C0659,Elijah Lewis,Corporate,2022-01-24,R02,Social
+C0660,Lucas Lewis,Consumer,2021-10-26,R06,Marketplace
+C0661,Henry Taylor,Consumer,2022-09-05,R07,Referral
+C0662,Sophia Wilson,Consumer,2023-10-05,R05,Marketplace
+C0663,Zoe Patel,Corporate,2021-02-18,R03,Referral
+C0664,Lucas Moore,Small Business,2021-05-19,R03,Paid Search
+C0665,Nora Clark,Consumer,2023-08-20,R03,Referral
+C0666,Maya Taylor,Consumer,2023-10-19,R04,Email
+C0667,Nora Martinez,Corporate,2022-05-02,R05,Marketplace
+C0668,Aria Davis,Consumer,2022-04-02,R07,Organic Search
+C0669,Olivia Anderson,Corporate,2021-06-24,R07,Social
+C0670,Henry Lewis,Consumer,2023-10-07,R07,Marketplace
+C0671,Liam Harris,Small Business,2022-06-17,R06,Marketplace
+C0672,Leo Patel,Consumer,2023-10-03,R01,Organic Search
+C0673,Nora Kim,Consumer,2021-09-02,R04,Referral
+C0674,Amelia Walker,Small Business,2021-09-15,R08,Paid Search
+C0675,Henry Moore,Consumer,2023-06-18,R02,Marketplace
+C0676,Elijah Anderson,Corporate,2022-09-02,R03,Referral
+C0677,Mia White,Consumer,2021-01-05,R07,Social
+C0678,Noah Kim,Consumer,2023-03-16,R02,Referral
+C0679,Maya Jackson,Corporate,2023-09-14,R01,Organic Search
+C0680,Ava Moore,Consumer,2021-09-21,R07,Referral
+C0681,Emma Harris,Consumer,2023-10-06,R03,Paid Search
+C0682,Nora Moore,Corporate,2021-08-13,R05,Email
+C0683,Lucas Singh,Small Business,2021-10-01,R06,Organic Search
+C0684,Mia White,Consumer,2023-04-09,R08,Social
+C0685,Lucas Lee,Small Business,2021-07-26,R02,Paid Search
+C0686,Zoe Brown,Corporate,2023-04-09,R01,Social
+C0687,Mason White,Consumer,2023-05-15,R05,Organic Search
+C0688,Sophia Davis,Consumer,2023-11-15,R02,Referral
+C0689,Elijah Garcia,Corporate,2021-12-12,R03,Email
+C0690,Mia Lee,Small Business,2023-02-20,R05,Marketplace
+C0691,Emma Patel,Consumer,2022-11-10,R03,Email
+C0692,James White,Consumer,2022-05-11,R04,Paid Search
+C0693,Olivia Patel,Consumer,2021-01-10,R07,Organic Search
+C0694,Nora Anderson,Corporate,2021-08-06,R03,Social
+C0695,Mia Jackson,Consumer,2023-11-15,R08,Paid Search
+C0696,Mia Clark,Corporate,2023-11-14,R01,Paid Search
+C0697,Liam Davis,Consumer,2021-06-16,R02,Email
+C0698,Mason Lee,Consumer,2023-08-01,R06,Organic Search
+C0699,Aria Davis,Consumer,2021-04-21,R04,Paid Search
+C0700,Lucas Brown,Consumer,2023-10-07,R03,Email
+C0701,Maya Taylor,Small Business,2022-11-16,R03,Organic Search
+C0702,Liam Lee,Consumer,2023-01-08,R06,Social
+C0703,James Kim,Consumer,2022-07-08,R02,Email
+C0704,Lucas Harris,Consumer,2023-03-14,R05,Paid Search
+C0705,Leo Harris,Small Business,2021-02-23,R01,Paid Search
+C0706,Ethan Moore,Consumer,2023-08-21,R03,Organic Search
+C0707,Lucas Lewis,Consumer,2021-06-10,R06,Organic Search
+C0708,Mia Brown,Small Business,2022-05-14,R05,Paid Search
+C0709,Henry Walker,Consumer,2022-12-13,R05,Organic Search
+C0710,Liam Wilson,Consumer,2022-02-15,R02,Organic Search
+C0711,Lucas Lee,Consumer,2021-03-25,R06,Paid Search
+C0712,Olivia Lee,Consumer,2023-09-23,R01,Organic Search
+C0713,Leo Johnson,Small Business,2022-01-25,R07,Social
+C0714,Amelia White,Small Business,2021-11-06,R01,Email
+C0715,Nora Lewis,Corporate,2021-02-22,R01,Organic Search
+C0716,Zoe Patel,Consumer,2022-11-26,R07,Organic Search
+C0717,Nora Martinez,Corporate,2023-01-24,R05,Email
+C0718,Olivia Thomas,Consumer,2021-07-15,R03,Organic Search
+C0719,Aria Johnson,Consumer,2023-01-06,R04,Organic Search
+C0720,Layla Singh,Consumer,2021-05-23,R05,Email

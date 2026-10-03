@@ -1,0 +1,10 @@
+{
+  "orders": 5200,
+  "order_items": 9139,
+  "customers": 720,
+  "products": 48,
+  "net_revenue": 2224957.61,
+  "gross_profit": 716170.23,
+  "contribution_profit": 631610.04,
+  "lost_revenue": 281722.4
+}

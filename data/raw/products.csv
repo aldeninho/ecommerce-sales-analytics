@@ -1,0 +1,49 @@
+product_id,product_name,category,subcategory,brand,unit_price,unit_cost
+P001,Wireless Headphones,Electronics,Audio,Meridian,214.49,142.19
+P002,Bluetooth Speaker,Electronics,Computing,Summit,120.53,78.28
+P003,USB-C Hub,Electronics,Accessories,Apex,139.72,94.93
+P004,Mechanical Keyboard,Electronics,Audio,Meridian,400.96,266.15
+P005,27-inch Monitor,Electronics,Computing,Summit,183.5,123.78
+P006,Webcam,Electronics,Accessories,Apex,244.45,154.75
+P007,Laptop Stand,Electronics,Audio,Meridian,85.33,56.95
+P008,Portable SSD,Electronics,Computing,Summit,253.51,162.28
+P009,Wi-Fi Router,Electronics,Accessories,Apex,296.73,204.62
+P010,Smart Plug,Electronics,Audio,Meridian,60.45,40.54
+P011,Noise-Canceling Earbuds,Electronics,Computing,Summit,416.54,268.27
+P012,Power Bank,Electronics,Accessories,Apex,414.28,288.7
+P013,Ergonomic Chair,Furniture,Office Furniture,Meridian,418.01,238.98
+P014,Standing Desk,Furniture,Living Room,Summit,100.54,57.99
+P015,Bookshelf,Furniture,Storage,Apex,168.09,101.78
+P016,Filing Cabinet,Furniture,Office Furniture,Meridian,630.9,390.58
+P017,Coffee Table,Furniture,Living Room,Summit,198.78,124.13
+P018,Desk Lamp,Furniture,Storage,Apex,294.41,187.22
+P019,Storage Ottoman,Furniture,Office Furniture,Meridian,539.67,317.29
+P020,Monitor Riser,Furniture,Living Room,Summit,151.49,90.09
+P021,Side Table,Furniture,Storage,Apex,221.99,142.61
+P022,Task Chair,Furniture,Office Furniture,Meridian,568.95,369.55
+P023,Wall Shelf,Furniture,Living Room,Summit,195.53,117.52
+P024,Mobile Pedestal,Furniture,Storage,Apex,104.96,63.45
+P025,Premium Notebook,Office Supplies,Paper,Meridian,71.76,42.18
+P026,Gel Pen Set,Office Supplies,Writing,Summit,26.84,15.28
+P027,Printer Paper,Office Supplies,Organization,Apex,42.25,24.81
+P028,Desk Organizer,Office Supplies,Paper,Meridian,54.22,32.4
+P029,Sticky Note Pack,Office Supplies,Writing,Summit,62.03,33.59
+P030,Archive Box,Office Supplies,Organization,Apex,46.94,28.34
+P031,Label Tape,Office Supplies,Paper,Meridian,8.72,4.67
+P032,Stapler,Office Supplies,Writing,Summit,45.76,24.77
+P033,File Folder Set,Office Supplies,Organization,Apex,75.25,44.42
+P034,Whiteboard Kit,Office Supplies,Paper,Meridian,25.32,14.75
+P035,Document Wallet,Office Supplies,Writing,Summit,41.88,25.54
+P036,Planner,Office Supplies,Organization,Apex,35.45,21.49
+P037,Electric Kettle,Home & Kitchen,Kitchen,Meridian,81.55,51.15
+P038,Air Fryer,Home & Kitchen,Decor,Summit,152.06,96.3
+P039,Table Lamp,Home & Kitchen,Appliances,Apex,49.57,31.45
+P040,Wall Clock,Home & Kitchen,Kitchen,Meridian,195.87,114.95
+P041,Food Container Set,Home & Kitchen,Decor,Summit,78.7,44.75
+P042,Coffee Grinder,Home & Kitchen,Appliances,Apex,180.79,114.47
+P043,Throw Pillow Set,Home & Kitchen,Kitchen,Meridian,205.47,129.67
+P044,Digital Scale,Home & Kitchen,Decor,Summit,134.21,77.33
+P045,Desk Fan,Home & Kitchen,Appliances,Apex,147.73,93.9
+P046,Humidifier,Home & Kitchen,Kitchen,Meridian,180.61,102.64
+P047,Knife Set,Home & Kitchen,Decor,Summit,142.37,88.8
+P048,Storage Basket,Home & Kitchen,Appliances,Apex,87.18,54.6

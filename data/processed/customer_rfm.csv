@@ -1,0 +1,568 @@
+customer_id,customer_name,segment,acquisition_channel,last_purchase_date,recency_days,frequency,monetary_value,r_score,f_score,m_score,rfm_segment
+C0052,Elijah Singh,Corporate,Referral,2025-12-01,31,37,20646.13,4,5,5,Champions
+C0580,Ethan Singh,Consumer,Referral,2025-12-25,7,38,19031.34,5,5,5,Champions
+C0581,Leo Davis,Consumer,Social,2025-12-26,6,24,18476.84,5,5,5,Champions
+C0348,Emma Patel,Small Business,Marketplace,2025-12-23,9,32,17931.48,5,5,5,Champions
+C0213,Ava Davis,Corporate,Email,2025-12-27,5,25,17577.9,5,5,5,Champions
+C0557,Lucas Kim,Consumer,Paid Search,2025-12-04,28,28,16264.99,4,5,5,Champions
+C0552,Elijah Harris,Consumer,Organic Search,2025-10-18,75,24,15082.39,3,5,5,Potential Loyalist
+C0033,Amelia Clark,Consumer,Email,2025-12-12,20,29,14937.72,5,5,5,Champions
+C0460,Emma Patel,Consumer,Marketplace,2025-12-27,5,23,14920.14,5,5,5,Champions
+C0161,Zoe Lewis,Consumer,Marketplace,2025-12-30,2,27,14661.46,5,5,5,Champions
+C0178,Elijah Harris,Small Business,Referral,2025-11-17,45,25,14621.17,4,5,5,Champions
+C0226,Emma Moore,Small Business,Organic Search,2025-12-14,18,32,14395.22,5,5,5,Champions
+C0546,Ethan Anderson,Corporate,Paid Search,2025-12-28,4,32,14351.44,5,5,5,Champions
+C0295,Noah Anderson,Consumer,Organic Search,2025-12-23,9,20,13970.04,5,5,5,Champions
+C0330,Emma Moore,Consumer,Social,2025-12-01,31,36,13882.31,4,5,5,Champions
+C0278,Sophia Jackson,Consumer,Referral,2025-11-25,37,26,13710.95,4,5,5,Champions
+C0617,Mia Walker,Small Business,Paid Search,2025-11-15,47,25,13461.99,4,5,5,Champions
+C0201,Leo Clark,Consumer,Organic Search,2025-12-30,2,25,13403.1,5,5,5,Champions
+C0563,Amelia Davis,Small Business,Email,2025-11-10,52,24,13145.52,4,5,5,Champions
+C0483,Sophia Brown,Consumer,Organic Search,2025-12-30,2,28,13112.04,5,5,5,Champions
+C0715,Nora Lewis,Corporate,Organic Search,2025-12-20,12,24,13013.84,5,5,5,Champions
+C0414,Ethan Harris,Consumer,Paid Search,2025-11-13,49,14,12862.25,4,4,5,Loyal
+C0081,Lucas Walker,Small Business,Social,2025-12-24,8,32,12720.18,5,5,5,Champions
+C0088,Aria White,Consumer,Organic Search,2025-11-30,32,27,12369.22,4,5,5,Champions
+C0441,Mason Clark,Corporate,Email,2025-12-18,14,33,12283.91,5,5,5,Champions
+C0689,Elijah Garcia,Corporate,Email,2025-11-03,59,23,12246.85,4,5,5,Champions
+C0373,Sophia Walker,Corporate,Marketplace,2025-11-15,47,28,11981.35,4,5,5,Champions
+C0337,Amelia Anderson,Small Business,Paid Search,2025-12-13,19,16,11892.63,5,5,5,Champions
+C0381,Layla Johnson,Corporate,Social,2025-12-01,31,26,11846.48,4,5,5,Champions
+C0519,Ethan Harris,Corporate,Organic Search,2025-12-30,2,20,11829.47,5,5,5,Champions
+C0611,Elijah Jackson,Small Business,Paid Search,2025-10-18,75,29,11694.39,3,5,5,Potential Loyalist
+C0012,Aria Kim,Corporate,Marketplace,2025-09-16,107,25,11612.23,3,5,5,Potential Loyalist
+C0333,Olivia Wilson,Consumer,Referral,2025-11-06,56,26,11593.1,4,5,5,Champions
+C0551,Elijah Moore,Consumer,Referral,2025-09-25,98,24,11582.4,3,5,5,Potential Loyalist
+C0391,Ethan Clark,Small Business,Referral,2025-09-28,95,26,11499.73,3,5,5,Potential Loyalist
+C0450,Nora Harris,Corporate,Organic Search,2025-11-06,56,24,11454.85,4,5,5,Champions
+C0509,Lucas Lee,Corporate,Organic Search,2025-11-19,43,27,11355.22,4,5,5,Champions
+C0707,Lucas Lewis,Consumer,Organic Search,2025-12-15,17,21,11235.97,5,5,5,Champions
+C0526,Leo Patel,Consumer,Organic Search,2025-12-30,2,30,11226.75,5,5,5,Champions
+C0420,Mia Moore,Small Business,Paid Search,2025-12-12,20,15,11187.61,5,4,5,Champions
+C0464,Ethan Lee,Corporate,Social,2025-12-19,13,30,11146.19,5,5,5,Champions
+C0498,Mia Kim,Small Business,Referral,2025-12-28,4,26,11136.92,5,5,5,Champions
+C0405,Zoe Brown,Small Business,Marketplace,2025-11-20,42,22,11129.19,4,5,5,Champions
+C0031,Amelia Walker,Corporate,Paid Search,2025-06-16,199,19,11104.04,2,5,5,At Risk
+C0606,Leo Thomas,Consumer,Organic Search,2025-11-18,44,26,11006.53,4,5,5,Champions
+C0591,Nora Patel,Corporate,Paid Search,2025-12-20,12,17,10978.75,5,5,5,Champions
+C0637,Elijah Patel,Consumer,Paid Search,2025-12-30,2,25,10946,5,5,5,Champions
+C0473,Aria Moore,Small Business,Marketplace,2025-09-17,106,34,10864.53,3,5,5,Potential Loyalist
+C0316,Layla Harris,Consumer,Paid Search,2025-12-22,10,15,10805.13,5,5,5,Champions
+C0701,Maya Taylor,Small Business,Organic Search,2025-12-01,31,25,10719.15,4,5,5,Champions
+C0212,Mason Singh,Consumer,Paid Search,2025-12-27,5,17,10702.79,5,5,5,Champions
+C0520,Nora Brown,Corporate,Referral,2025-10-19,74,16,10664.69,3,5,5,Potential Loyalist
+C0527,Ava Jackson,Consumer,Referral,2025-10-23,70,24,10660.92,3,5,5,Potential Loyalist
+C0625,Olivia Brown,Consumer,Social,2025-11-04,58,17,10658.09,4,5,5,Champions
+C0148,Lucas Clark,Small Business,Organic Search,2025-11-13,49,23,10624.68,4,5,5,Champions
+C0536,Sophia Lee,Corporate,Organic Search,2025-09-20,103,25,10620.17,3,5,5,Potential Loyalist
+C0687,Mason White,Consumer,Organic Search,2025-12-18,14,26,10507.97,5,5,5,Champions
+C0571,Nora Johnson,Small Business,Email,2025-12-01,31,21,10357.26,4,5,5,Champions
+C0431,Maya Lewis,Consumer,Social,2025-11-11,51,28,10295.75,4,5,5,Champions
+C0375,Liam Jackson,Consumer,Organic Search,2025-12-29,3,17,10204.41,5,5,5,Champions
+C0400,Lucas Patel,Consumer,Referral,2025-10-28,65,23,10133.49,3,5,5,Potential Loyalist
+C0404,Leo Martinez,Consumer,Organic Search,2025-10-24,69,19,10036.31,3,5,5,Potential Loyalist
+C0425,Layla Singh,Consumer,Marketplace,2025-10-10,83,24,9602.61,3,5,5,Potential Loyalist
+C0035,Emma Kim,Consumer,Organic Search,2025-05-17,229,14,9575.98,2,4,5,At Risk
+C0253,Layla Thomas,Consumer,Paid Search,2025-12-20,12,23,9524.69,5,5,5,Champions
+C0645,Ava Brown,Corporate,Paid Search,2025-12-08,24,18,9521.04,5,5,5,Champions
+C0273,Henry Davis,Consumer,Social,2025-12-18,14,21,9397.15,5,5,5,Champions
+C0001,Sophia Lewis,Consumer,Paid Search,2025-11-16,46,19,9342.51,4,5,5,Champions
+C0342,Zoe Anderson,Consumer,Organic Search,2025-12-25,7,17,9277.09,5,5,5,Champions
+C0145,Maya Clark,Consumer,Organic Search,2025-12-26,6,24,9274.5,5,5,5,Champions
+C0087,Mason Brown,Small Business,Referral,2025-11-20,42,17,9174.28,4,5,5,Champions
+C0503,Lucas Taylor,Corporate,Organic Search,2025-11-27,35,17,9043.5,4,5,5,Champions
+C0713,Leo Johnson,Small Business,Social,2025-10-30,63,24,8928.95,3,5,5,Potential Loyalist
+C0102,Emma White,Corporate,Social,2025-11-14,48,20,8887.03,4,5,5,Champions
+C0351,Henry Patel,Small Business,Marketplace,2025-11-04,58,24,8882.2,4,5,5,Champions
+C0220,Lucas Anderson,Consumer,Paid Search,2025-10-22,71,16,8836.44,3,5,5,Potential Loyalist
+C0416,Aria Jackson,Consumer,Organic Search,2025-10-30,63,14,8833.14,3,4,5,Potential Loyalist
+C0403,Amelia Wilson,Consumer,Referral,2025-07-07,178,9,8735.08,2,4,5,At Risk
+C0070,Elijah Clark,Consumer,Social,2025-12-18,14,15,8726.13,5,4,5,Champions
+C0323,Lucas Thomas,Small Business,Marketplace,2025-12-14,18,17,8696,5,5,5,Champions
+C0471,Nora Anderson,Corporate,Referral,2025-12-21,11,10,8687.75,5,4,5,Champions
+C0318,Amelia Garcia,Consumer,Social,2025-12-22,10,20,8626.33,5,5,5,Champions
+C0067,Olivia Brown,Corporate,Email,2025-12-04,28,19,8590.61,4,5,5,Champions
+C0719,Aria Johnson,Consumer,Organic Search,2025-11-13,49,20,8566.78,4,5,5,Champions
+C0538,Zoe Anderson,Corporate,Social,2025-10-20,73,16,8529.45,3,5,5,Potential Loyalist
+C0399,Mason Lewis,Consumer,Paid Search,2025-07-07,178,11,8514.95,2,4,5,At Risk
+C0107,Henry Moore,Consumer,Organic Search,2025-12-30,2,19,8396.74,5,5,5,Champions
+C0428,Ethan Wilson,Consumer,Paid Search,2025-12-15,17,18,8313.44,5,5,5,Champions
+C0069,Mia Anderson,Consumer,Organic Search,2025-12-18,14,21,8310.54,5,5,5,Champions
+C0302,Henry Harris,Consumer,Social,2025-12-06,26,22,8257.3,5,5,5,Champions
+C0638,Elijah Jackson,Consumer,Paid Search,2025-12-28,4,16,8248.96,5,5,5,Champions
+C0461,Nora Patel,Corporate,Social,2025-11-26,36,14,8233.9,4,4,5,Loyal
+C0118,James Walker,Consumer,Paid Search,2025-12-25,7,13,8190.84,5,4,5,Champions
+C0091,Aria White,Consumer,Social,2025-10-16,77,17,8186.92,3,5,5,Potential Loyalist
+C0256,Aria Moore,Consumer,Email,2025-10-22,71,19,8181.57,3,5,5,Potential Loyalist
+C0174,Lucas Harris,Consumer,Marketplace,2025-12-25,7,18,8164.65,5,5,5,Champions
+C0149,Mason Davis,Corporate,Referral,2025-10-27,66,13,8106,3,4,5,Potential Loyalist
+C0534,Leo Walker,Consumer,Social,2025-12-07,25,16,8105.33,5,5,5,Champions
+C0016,Mia Anderson,Consumer,Organic Search,2025-11-16,46,18,7900.76,4,5,5,Champions
+C0522,Layla Clark,Corporate,Organic Search,2025-10-05,88,22,7859.07,3,5,5,Potential Loyalist
+C0094,Zoe Singh,Corporate,Email,2025-12-30,2,18,7851.7,5,5,5,Champions
+C0573,Leo Davis,Consumer,Paid Search,2025-11-01,61,16,7789.65,3,5,5,Potential Loyalist
+C0339,Elijah Kim,Consumer,Organic Search,2025-12-20,12,14,7769,5,4,5,Champions
+C0466,Elijah Wilson,Corporate,Marketplace,2025-12-15,17,21,7684.17,5,5,5,Champions
+C0058,Henry Taylor,Small Business,Paid Search,2025-12-12,20,13,7674.78,5,4,5,Champions
+C0289,Nora Garcia,Corporate,Social,2025-09-10,113,11,7534.24,3,4,5,Potential Loyalist
+C0525,Zoe Lewis,Corporate,Email,2025-12-22,10,21,7490.79,5,5,5,Champions
+C0570,Sophia Davis,Consumer,Referral,2025-10-09,84,11,7488.93,3,4,5,Potential Loyalist
+C0418,Ethan Lee,Consumer,Social,2025-12-22,10,16,7478.89,5,5,5,Champions
+C0476,Aria Clark,Consumer,Organic Search,2025-12-06,26,24,7462.33,5,5,5,Champions
+C0063,Liam Brown,Corporate,Social,2025-12-26,6,20,7420.1,5,5,5,Champions
+C0044,Noah Kim,Consumer,Organic Search,2025-12-23,9,13,7331.75,5,4,5,Champions
+C0539,Henry Lee,Consumer,Email,2025-12-29,3,18,7269.55,5,5,5,Champions
+C0517,Aria Garcia,Consumer,Paid Search,2025-12-14,18,21,7237.79,5,5,5,Champions
+C0661,Henry Taylor,Consumer,Referral,2025-11-06,56,14,7209.11,4,4,4,Loyal
+C0556,Sophia Davis,Consumer,Social,2025-12-05,27,22,7138.77,4,5,4,Loyal
+C0074,Mia Clark,Corporate,Social,2025-10-03,90,20,7118.95,3,5,4,Potential Loyalist
+C0238,Mia Patel,Corporate,Social,2025-12-24,8,17,6962.96,5,5,4,Champions
+C0652,Henry White,Corporate,Social,2025-11-21,41,21,6953.73,4,5,4,Loyal
+C0390,Liam Anderson,Small Business,Paid Search,2025-11-16,46,19,6930.67,4,5,4,Loyal
+C0657,Maya Patel,Small Business,Organic Search,2025-11-18,44,16,6918.95,4,5,4,Loyal
+C0326,Henry Singh,Consumer,Email,2025-07-23,162,9,6889.69,2,4,4,At Risk
+C0388,Sophia Brown,Small Business,Organic Search,2025-12-09,23,20,6888.18,5,5,4,Champions
+C0236,Elijah Martinez,Consumer,Email,2025-12-03,29,18,6843.3,4,5,4,Loyal
+C0543,Ava Johnson,Consumer,Paid Search,2025-07-24,161,9,6838.25,2,4,4,At Risk
+C0586,Emma Lee,Consumer,Organic Search,2025-12-09,23,13,6837.65,5,4,4,Loyal
+C0700,Lucas Brown,Consumer,Email,2025-12-29,3,8,6814.47,5,4,4,Loyal
+C0251,Sophia Harris,Consumer,Paid Search,2025-12-28,4,12,6811.75,5,4,4,Loyal
+C0055,Amelia Brown,Corporate,Email,2025-12-19,13,13,6780.56,5,4,4,Loyal
+C0490,Layla Moore,Consumer,Social,2025-12-11,21,8,6762.8,5,4,4,Loyal
+C0175,Layla Lewis,Consumer,Social,2025-12-01,31,13,6744.41,4,4,4,Loyal
+C0143,Ethan Davis,Consumer,Referral,2025-11-18,44,13,6685.75,4,4,4,Loyal
+C0432,Noah Lewis,Small Business,Social,2025-11-23,39,10,6637.89,4,4,4,Loyal
+C0669,Olivia Anderson,Corporate,Social,2025-09-15,108,17,6599.32,3,5,4,Potential Loyalist
+C0412,Lucas Lee,Small Business,Organic Search,2025-12-25,7,16,6575.28,5,5,4,Champions
+C0683,Lucas Singh,Small Business,Organic Search,2025-12-01,31,20,6535.64,4,5,4,Loyal
+C0366,Amelia Anderson,Consumer,Marketplace,2025-10-03,90,14,6451.82,3,4,4,Potential Loyalist
+C0021,Henry Wilson,Corporate,Email,2025-12-14,18,16,6376.66,5,5,4,Champions
+C0512,Elijah Clark,Corporate,Marketplace,2025-12-20,12,15,6365.98,5,5,4,Champions
+C0530,Aria Patel,Consumer,Referral,2025-11-14,48,10,6308.79,4,4,4,Loyal
+C0672,Leo Patel,Consumer,Organic Search,2025-12-05,27,13,6210.09,4,4,4,Loyal
+C0014,Mason Davis,Consumer,Referral,2025-12-20,12,11,6200.11,5,4,4,Loyal
+C0181,Mia Taylor,Consumer,Paid Search,2025-11-02,60,9,6097.31,3,4,4,Potential Loyalist
+C0345,Mason Davis,Small Business,Paid Search,2025-10-10,83,14,6049.3,3,4,4,Potential Loyalist
+C0340,Olivia Lee,Consumer,Social,2025-12-21,11,11,5971.56,5,4,4,Loyal
+C0124,Liam Taylor,Consumer,Email,2025-11-14,48,7,5944.43,4,4,4,Loyal
+C0385,Maya Patel,Small Business,Organic Search,2025-12-15,17,11,5925.68,5,4,4,Loyal
+C0338,Amelia Walker,Consumer,Organic Search,2025-12-23,9,10,5873.04,5,4,4,Loyal
+C0079,Maya Jackson,Consumer,Email,2025-09-01,122,8,5854.43,3,4,4,Potential Loyalist
+C0548,Sophia Lewis,Consumer,Marketplace,2025-12-01,31,10,5767.38,4,4,4,Loyal
+C0378,Nora Davis,Consumer,Referral,2025-12-18,14,8,5743.54,5,4,4,Loyal
+C0090,Liam Brown,Consumer,Social,2025-12-07,25,12,5736.82,5,4,4,Loyal
+C0050,Leo Lewis,Corporate,Organic Search,2025-12-18,14,12,5722.51,5,4,4,Loyal
+C0104,Aria Thomas,Corporate,Social,2025-07-20,165,9,5698.47,2,4,4,At Risk
+C0294,Olivia Johnson,Small Business,Referral,2025-07-02,183,9,5695.8,2,4,4,At Risk
+C0271,Nora Garcia,Consumer,Social,2025-10-07,86,7,5667.76,3,3,4,Potential Loyalist
+C0542,Zoe Clark,Consumer,Email,2025-11-19,43,10,5647.96,4,4,4,Loyal
+C0374,Elijah Walker,Consumer,Organic Search,2025-12-25,7,12,5604.46,5,4,4,Loyal
+C0410,Layla Taylor,Consumer,Social,2025-11-17,45,8,5598.81,4,4,4,Loyal
+C0462,Liam Lewis,Small Business,Referral,2025-06-26,189,6,5592.4,2,3,4,At Risk
+C0155,Layla White,Consumer,Social,2025-09-08,115,16,5539.77,3,5,4,Potential Loyalist
+C0062,Maya Jackson,Consumer,Paid Search,2025-10-02,91,11,5517.88,3,4,4,Potential Loyalist
+C0298,Elijah Garcia,Small Business,Email,2025-09-23,100,8,5489.23,3,4,4,Potential Loyalist
+C0667,Nora Martinez,Corporate,Marketplace,2025-09-02,121,5,5436.15,3,3,4,Potential Loyalist
+C0435,Zoe Taylor,Consumer,Marketplace,2025-11-10,52,7,5401.74,4,3,4,Loyal
+C0417,Sophia Anderson,Small Business,Paid Search,2025-11-25,37,13,5390.11,4,4,4,Loyal
+C0320,Maya Jackson,Consumer,Marketplace,2025-12-08,24,15,5365.04,5,5,4,Champions
+C0006,Mia Johnson,Small Business,Email,2025-10-14,79,12,5280.77,3,4,4,Potential Loyalist
+C0358,Emma Jackson,Consumer,Email,2025-04-16,260,3,5224.84,2,2,4,Hibernating
+C0153,Mia Clark,Corporate,Referral,2025-12-16,16,14,5224.16,5,4,4,Loyal
+C0254,Sophia White,Consumer,Paid Search,2025-10-22,71,9,5200.34,3,4,4,Potential Loyalist
+C0144,Ethan Johnson,Small Business,Marketplace,2025-11-29,33,7,5121.61,4,4,4,Loyal
+C0216,Lucas Moore,Consumer,Referral,2025-12-24,8,8,5115.4,5,4,4,Loyal
+C0152,Liam Lee,Consumer,Social,2025-09-10,113,9,5078.19,3,4,4,Potential Loyalist
+C0409,Maya Davis,Consumer,Email,2025-08-18,136,7,4984.52,3,3,4,Potential Loyalist
+C0346,Olivia Garcia,Small Business,Organic Search,2025-07-30,155,7,4948,2,3,4,At Risk
+C0555,Ethan Anderson,Consumer,Email,2025-12-06,26,7,4904.08,4,3,4,Loyal
+C0598,Zoe Clark,Consumer,Email,2025-08-07,147,9,4883.52,3,4,4,Potential Loyalist
+C0624,Mia Patel,Corporate,Organic Search,2025-09-30,93,9,4870.17,3,4,4,Potential Loyalist
+C0402,Ava Brown,Corporate,Organic Search,2025-10-30,63,13,4868.57,3,4,4,Potential Loyalist
+C0382,James Brown,Corporate,Referral,2025-11-30,32,13,4843.87,4,4,4,Loyal
+C0159,Mason White,Small Business,Organic Search,2025-10-21,72,16,4826.92,3,5,4,Potential Loyalist
+C0612,Nora Moore,Consumer,Marketplace,2025-12-22,10,11,4793.11,5,4,4,Loyal
+C0277,Henry Kim,Small Business,Paid Search,2025-04-07,269,5,4763.19,2,3,4,At Risk
+C0134,Aria Wilson,Small Business,Organic Search,2025-09-15,108,7,4691.57,3,4,4,Potential Loyalist
+C0636,Ava Patel,Small Business,Social,2025-12-17,15,14,4649.27,5,4,4,Loyal
+C0455,Ava White,Small Business,Email,2025-11-26,36,13,4627.37,4,4,4,Loyal
+C0532,Ava Taylor,Corporate,Paid Search,2025-09-20,103,11,4616.79,3,4,4,Potential Loyalist
+C0537,Ethan Anderson,Consumer,Paid Search,2025-10-29,64,12,4611.72,3,4,4,Potential Loyalist
+C0207,Liam Clark,Consumer,Marketplace,2025-10-12,81,9,4611,3,4,4,Potential Loyalist
+C0705,Leo Harris,Small Business,Paid Search,2025-12-07,25,7,4604.37,5,3,4,Loyal
+C0343,Nora Moore,Consumer,Social,2025-11-13,49,10,4571.31,4,4,4,Loyal
+C0184,Emma Singh,Consumer,Email,2025-12-25,7,13,4520.97,5,4,4,Loyal
+C0054,Maya Lewis,Consumer,Paid Search,2025-11-30,32,9,4503.3,4,4,4,Loyal
+C0666,Maya Taylor,Consumer,Email,2025-12-21,11,10,4387.3,5,4,4,Loyal
+C0407,Maya Lee,Small Business,Paid Search,2025-12-02,30,11,4374.89,4,4,4,Loyal
+C0615,Henry Anderson,Corporate,Referral,2025-12-20,12,8,4349.69,5,4,4,Loyal
+C0043,Maya Clark,Consumer,Social,2025-03-17,290,9,4322.94,2,4,4,At Risk
+C0616,Nora Taylor,Corporate,Social,2025-10-05,88,7,4286.02,3,3,4,Potential Loyalist
+C0668,Aria Davis,Consumer,Organic Search,2025-06-01,214,10,4281.67,2,4,4,At Risk
+C0497,James Davis,Consumer,Marketplace,2025-12-05,27,10,4237.57,4,4,4,Loyal
+C0332,Maya Walker,Small Business,Social,2025-12-19,13,12,4206.7,5,4,4,Loyal
+C0499,Noah Anderson,Small Business,Social,2025-10-07,86,6,4183.79,3,3,4,Potential Loyalist
+C0621,Layla Lee,Consumer,Marketplace,2025-11-24,38,9,4170.15,4,4,4,Loyal
+C0276,Mason Singh,Consumer,Paid Search,2025-09-12,111,5,4158.17,3,3,4,Potential Loyalist
+C0541,Zoe Garcia,Corporate,Paid Search,2025-08-01,153,3,4125.3,2,2,4,Hibernating
+C0554,Maya Johnson,Consumer,Organic Search,2025-05-09,237,7,4073.81,2,4,4,At Risk
+C0651,Liam Walker,Small Business,Organic Search,2025-12-05,27,12,4045.44,4,4,4,Loyal
+C0480,Nora Clark,Consumer,Organic Search,2025-12-17,15,14,4040.73,5,4,4,Loyal
+C0393,Zoe Brown,Corporate,Organic Search,2025-06-08,207,9,3990.72,2,4,4,At Risk
+C0037,Noah Kim,Small Business,Referral,2025-12-26,6,13,3986.53,5,4,4,Loyal
+C0048,Layla Thomas,Corporate,Email,2025-09-23,100,4,3981.32,3,3,4,Potential Loyalist
+C0125,Henry Wilson,Corporate,Paid Search,2025-08-26,128,11,3974.68,3,4,4,Potential Loyalist
+C0529,Mason Johnson,Consumer,Email,2025-04-11,265,7,3864.22,2,3,4,At Risk
+C0610,Ethan Davis,Consumer,Marketplace,2025-11-03,59,13,3853.23,4,4,4,Loyal
+C0415,Ava Wilson,Consumer,Organic Search,2025-08-18,136,6,3815.25,3,3,4,Potential Loyalist
+C0684,Mia White,Consumer,Social,2025-10-14,79,6,3683.64,3,3,4,Potential Loyalist
+C0482,Amelia Martinez,Consumer,Paid Search,2025-06-04,211,9,3611.41,2,4,4,At Risk
+C0494,Ethan Thomas,Corporate,Email,2025-11-04,58,7,3600.92,4,4,4,Loyal
+C0575,Elijah Johnson,Small Business,Paid Search,2025-03-08,299,1,3583.12,2,1,4,Hibernating
+C0453,Sophia Kim,Consumer,Referral,2025-11-23,39,12,3560.98,4,4,4,Loyal
+C0406,Leo Patel,Corporate,Referral,2025-10-28,65,7,3542.65,3,3,4,Potential Loyalist
+C0477,Layla Singh,Consumer,Organic Search,2025-11-29,33,9,3541.34,4,4,4,Loyal
+C0653,Aria Garcia,Consumer,Organic Search,2025-10-25,68,8,3504.39,3,4,4,Potential Loyalist
+C0489,Layla Jackson,Consumer,Social,2025-12-14,18,9,3502.63,5,4,4,Loyal
+C0005,James Jackson,Small Business,Social,2025-11-28,34,6,3472.73,4,3,4,Loyal
+C0199,Zoe Walker,Consumer,Referral,2025-08-26,128,5,3440.58,3,3,4,Potential Loyalist
+C0658,Noah Walker,Corporate,Email,2025-09-18,105,7,3428.31,3,4,3,Potential Loyalist
+C0504,Olivia Moore,Corporate,Social,2025-11-23,39,8,3412.93,4,4,3,Loyal
+C0028,Ethan Harris,Corporate,Paid Search,2025-04-01,275,4,3397.23,2,3,3,At Risk
+C0047,Liam Davis,Consumer,Social,2025-12-30,2,9,3385.75,5,4,3,Loyal
+C0182,Sophia Walker,Small Business,Referral,2025-12-18,14,7,3377.92,5,3,3,Loyal
+C0443,Ava Davis,Consumer,Email,2025-12-29,3,8,3284.42,5,4,3,Loyal
+C0007,Aria Johnson,Consumer,Organic Search,2025-10-11,82,5,3275.51,3,3,3,Potential Loyalist
+C0194,Lucas Martinez,Small Business,Social,2025-11-22,40,7,3253.1,4,3,3,Loyal
+C0688,Sophia Davis,Consumer,Referral,2025-12-23,9,7,3195.18,5,3,3,Loyal
+C0247,James Garcia,Consumer,Referral,2025-10-31,62,7,3157.61,3,3,3,Potential Loyalist
+C0456,Maya White,Consumer,Paid Search,2025-11-26,36,6,3140.23,4,3,3,Loyal
+C0305,Lucas Thomas,Corporate,Organic Search,2025-07-06,179,7,3135.7,2,4,3,At Risk
+C0691,Emma Patel,Consumer,Email,2025-06-15,200,6,3117.75,2,3,3,At Risk
+C0344,Mason Harris,Consumer,Referral,2025-10-02,91,6,3109.12,3,3,3,Potential Loyalist
+C0231,Amelia Martinez,Consumer,Referral,2025-11-11,51,5,3099.4,4,3,3,Loyal
+C0235,Mia Martinez,Corporate,Paid Search,2025-12-02,30,10,3074.34,4,4,3,Loyal
+C0712,Olivia Lee,Consumer,Organic Search,2025-10-01,92,9,3057.79,3,4,3,Potential Loyalist
+C0200,Noah White,Corporate,Marketplace,2024-12-19,378,3,3036.01,1,2,3,Hibernating
+C0635,James Martinez,Consumer,Social,2025-12-23,9,6,3031.44,5,3,3,Loyal
+C0261,Mia Taylor,Consumer,Paid Search,2025-11-13,49,8,3019.27,4,4,3,Loyal
+C0039,Ava Harris,Corporate,Social,2025-08-14,140,4,2959.54,3,3,3,Potential Loyalist
+C0454,Aria Taylor,Consumer,Referral,2025-12-10,22,5,2953,5,3,3,Loyal
+C0558,Layla Anderson,Consumer,Marketplace,2025-12-13,19,8,2935,5,4,3,Loyal
+C0446,Aria Moore,Consumer,Organic Search,2025-12-30,2,3,2889.76,5,3,3,Loyal
+C0269,Emma Brown,Consumer,Social,2024-12-01,396,4,2881.84,1,3,3,At Risk
+C0202,Lucas Taylor,Corporate,Paid Search,2025-06-22,193,5,2867.78,2,3,3,At Risk
+C0010,Leo Johnson,Small Business,Referral,2024-10-22,436,5,2838.48,1,3,3,At Risk
+C0240,Mason Johnson,Corporate,Marketplace,2025-09-15,108,4,2824.64,3,3,3,Potential Loyalist
+C0523,Ava Walker,Consumer,Social,2025-10-10,83,5,2757.03,3,3,3,Potential Loyalist
+C0445,Noah Martinez,Consumer,Email,2025-05-11,235,5,2755.72,2,3,3,At Risk
+C0049,Emma Lee,Consumer,Paid Search,2025-12-03,29,7,2741.28,4,3,3,Loyal
+C0528,Layla Walker,Consumer,Email,2025-06-01,214,2,2738.37,2,2,3,Hibernating
+C0587,Amelia Thomas,Consumer,Organic Search,2025-12-17,15,10,2723.99,5,4,3,Loyal
+C0607,Amelia Thomas,Small Business,Organic Search,2025-11-04,58,8,2717.86,4,4,3,Loyal
+C0427,Sophia Davis,Consumer,Referral,2025-07-27,158,3,2713.29,2,2,3,Hibernating
+C0291,Nora Patel,Consumer,Organic Search,2024-11-05,422,3,2694.39,1,3,3,At Risk
+C0502,Elijah Thomas,Small Business,Email,2025-02-01,334,5,2681.51,1,3,3,At Risk
+C0396,Emma Lee,Small Business,Marketplace,2025-12-27,5,8,2608.69,5,4,3,Loyal
+C0239,Olivia Martinez,Corporate,Paid Search,2025-07-12,173,6,2566.86,2,3,3,At Risk
+C0128,Emma Patel,Consumer,Organic Search,2025-11-17,45,10,2537.7,4,4,3,Loyal
+C0098,Ava Johnson,Consumer,Social,2024-09-08,480,3,2514.7,1,2,3,Hibernating
+C0622,Liam Thomas,Small Business,Social,2025-03-12,295,4,2468.98,2,3,3,At Risk
+C0383,Amelia Johnson,Consumer,Email,2025-07-13,172,9,2457.76,2,4,3,At Risk
+C0639,Lucas Johnson,Small Business,Email,2025-12-01,31,6,2456.75,4,3,3,Loyal
+C0566,Sophia Patel,Consumer,Referral,2025-12-08,24,9,2451.69,5,4,3,Loyal
+C0221,Amelia Davis,Corporate,Marketplace,2025-09-25,98,4,2444.44,3,3,3,Potential Loyalist
+C0655,Noah White,Consumer,Paid Search,2025-01-22,344,5,2426.07,1,3,3,At Risk
+C0664,Lucas Moore,Small Business,Paid Search,2025-08-17,137,5,2419.9,3,3,3,Potential Loyalist
+C0540,Elijah Wilson,Corporate,Organic Search,2025-05-20,226,6,2383.01,2,3,3,At Risk
+C0329,Ethan Clark,Consumer,Email,2025-12-19,13,7,2348.33,5,3,3,Loyal
+C0618,Emma Clark,Consumer,Social,2025-11-12,50,9,2343.38,4,4,3,Loyal
+C0234,Lucas Brown,Corporate,Paid Search,2025-06-25,190,9,2304.74,2,4,3,At Risk
+C0135,James Harris,Small Business,Social,2025-12-24,8,7,2283.54,5,3,3,Loyal
+C0312,Lucas White,Corporate,Organic Search,2024-07-31,519,4,2282.97,1,3,3,At Risk
+C0572,Elijah Wilson,Corporate,Paid Search,2025-08-04,150,3,2246.08,2,3,3,At Risk
+C0147,Lucas White,Corporate,Organic Search,2025-05-02,244,5,2232.42,2,3,3,At Risk
+C0609,Lucas Taylor,Consumer,Organic Search,2025-10-15,78,4,2209.83,3,3,3,Potential Loyalist
+C0086,Noah Kim,Consumer,Social,2025-08-18,136,6,2207.74,3,3,3,Potential Loyalist
+C0696,Mia Clark,Corporate,Paid Search,2025-12-08,24,6,2193.92,5,3,3,Loyal
+C0614,Lucas Garcia,Corporate,Paid Search,2025-08-03,151,3,2183.35,2,2,3,Hibernating
+C0036,Lucas Patel,Consumer,Organic Search,2024-07-23,527,3,2162.2,1,2,3,Hibernating
+C0583,Maya Thomas,Corporate,Organic Search,2025-11-17,45,5,2140.38,4,3,3,Loyal
+C0620,Lucas Johnson,Consumer,Marketplace,2025-11-03,59,4,2130.81,4,3,3,Loyal
+C0411,Mason Jackson,Consumer,Organic Search,2025-12-05,27,6,2080.84,4,3,3,Loyal
+C0319,Elijah Singh,Small Business,Organic Search,2025-03-26,281,2,2080.48,2,2,3,Hibernating
+C0166,Emma Garcia,Consumer,Social,2025-06-25,190,2,2062.3,2,2,3,Hibernating
+C0071,Ethan Wilson,Small Business,Referral,2025-11-14,48,5,2058.49,4,3,3,Loyal
+C0060,Olivia Thomas,Consumer,Organic Search,2025-12-13,19,3,2039.31,5,3,3,Loyal
+C0168,Mia Jackson,Consumer,Paid Search,2025-11-23,39,2,2021.35,4,2,3,Potential Loyalist
+C0479,Amelia Moore,Corporate,Paid Search,2025-10-11,82,6,2021.2,3,3,3,Potential Loyalist
+C0116,Ethan Moore,Consumer,Paid Search,2025-04-05,271,6,2013.46,2,3,3,At Risk
+C0095,Aria Wilson,Consumer,Referral,2025-07-23,162,6,2001.61,2,3,3,At Risk
+C0321,Henry Patel,Consumer,Referral,2025-12-23,9,2,1994.31,5,2,3,Potential Loyalist
+C0448,Amelia Garcia,Consumer,Organic Search,2025-05-14,232,3,1989.06,2,2,3,Hibernating
+C0478,Ethan Harris,Corporate,Social,2025-11-30,32,4,1986.85,4,3,3,Loyal
+C0663,Zoe Patel,Corporate,Referral,2024-01-22,710,2,1974.57,1,2,3,Hibernating
+C0045,Emma Thomas,Corporate,Referral,2024-10-02,456,3,1973.75,1,2,3,Hibernating
+C0270,Ethan Kim,Consumer,Social,2025-11-15,47,7,1968.33,4,4,3,Loyal
+C0470,Mia Lee,Small Business,Referral,2025-06-30,185,5,1957.05,2,3,3,At Risk
+C0593,Maya Moore,Consumer,Paid Search,2024-08-27,492,2,1946.2,1,2,3,Hibernating
+C0248,Amelia Moore,Consumer,Organic Search,2025-11-11,51,9,1944.02,4,4,3,Loyal
+C0300,Lucas Johnson,Corporate,Email,2025-12-13,19,8,1942.88,5,4,3,Loyal
+C0189,Liam Martinez,Corporate,Paid Search,2025-09-20,103,3,1908.58,3,2,3,Potential Loyalist
+C0299,Henry Martinez,Corporate,Referral,2025-04-30,246,2,1905.93,2,2,3,Hibernating
+C0564,James Davis,Small Business,Organic Search,2025-06-18,197,6,1903.85,2,3,3,At Risk
+C0026,Mia Patel,Corporate,Paid Search,2025-05-17,229,5,1901,2,3,3,At Risk
+C0004,Amelia White,Consumer,Organic Search,2025-11-22,40,5,1899,4,3,3,Loyal
+C0422,Zoe Jackson,Corporate,Marketplace,2025-06-08,207,3,1885.76,2,2,3,Hibernating
+C0205,Zoe Garcia,Corporate,Organic Search,2025-04-06,270,4,1882.5,2,3,3,At Risk
+C0096,Amelia Moore,Small Business,Email,2025-06-07,208,2,1879.27,2,2,3,Hibernating
+C0623,Ava Johnson,Consumer,Paid Search,2025-07-16,169,5,1874.46,2,3,3,At Risk
+C0328,Ava Harris,Consumer,Referral,2025-10-25,68,2,1870.27,3,2,3,Potential Loyalist
+C0613,Maya Clark,Consumer,Organic Search,2024-08-12,507,2,1868.72,1,2,3,Hibernating
+C0589,Elijah Lee,Consumer,Paid Search,2025-04-13,263,2,1866.73,2,2,3,Hibernating
+C0089,Ava Martinez,Corporate,Organic Search,2025-06-08,207,3,1859.32,2,3,3,At Risk
+C0597,Elijah Anderson,Small Business,Email,2025-10-04,89,2,1840.07,3,2,3,Potential Loyalist
+C0717,Nora Martinez,Corporate,Email,2025-08-31,123,5,1799.4,3,3,3,Potential Loyalist
+C0644,Liam Taylor,Consumer,Email,2025-11-13,49,6,1781.42,4,3,3,Loyal
+C0569,Ethan Lee,Consumer,Paid Search,2025-08-26,128,7,1768.72,3,3,3,Potential Loyalist
+C0188,Aria Lewis,Small Business,Paid Search,2025-11-20,42,3,1761.45,4,2,3,Potential Loyalist
+C0507,Mia Clark,Consumer,Social,2025-11-09,53,7,1757.91,4,3,3,Loyal
+C0180,Leo Singh,Corporate,Organic Search,2025-12-17,15,7,1750.93,5,3,3,Loyal
+C0100,Henry Moore,Small Business,Social,2025-10-20,73,3,1746.1,3,2,3,Potential Loyalist
+C0163,Leo Garcia,Consumer,Marketplace,2025-03-05,302,4,1736.4,2,3,3,At Risk
+C0262,Ava White,Corporate,Social,2025-10-27,66,6,1719.68,3,3,3,Potential Loyalist
+C0465,Mia White,Small Business,Organic Search,2025-11-25,37,6,1715.82,4,3,3,Loyal
+C0682,Nora Moore,Corporate,Email,2025-05-24,222,4,1712.82,2,3,3,At Risk
+C0694,Nora Anderson,Corporate,Social,2024-07-26,524,1,1710.02,1,1,3,Hibernating
+C0265,Liam Davis,Corporate,Organic Search,2025-07-10,175,4,1708.31,2,3,3,At Risk
+C0588,Ethan White,Corporate,Social,2025-11-13,49,2,1698.94,4,2,3,Potential Loyalist
+C0492,Layla Martinez,Small Business,Paid Search,2025-01-13,353,1,1698.49,1,1,3,Hibernating
+C0293,Amelia Wilson,Small Business,Email,2025-07-20,165,8,1678.28,2,4,3,At Risk
+C0590,Ava Garcia,Consumer,Social,2025-09-20,103,6,1644.18,3,3,3,Potential Loyalist
+C0232,Ava Anderson,Consumer,Social,2025-01-24,342,1,1642.2,1,1,3,Hibernating
+C0349,Emma Wilson,Corporate,Marketplace,2025-11-01,61,3,1628.74,3,2,2,Potential Loyalist
+C0106,Layla Harris,Consumer,Referral,2025-01-30,336,2,1627.11,1,2,2,Hibernating
+C0451,James Johnson,Consumer,Email,2025-07-14,171,8,1608.4,2,4,2,At Risk
+C0222,Mason Anderson,Small Business,Marketplace,2025-05-08,238,5,1591.13,2,3,2,At Risk
+C0217,Ava Jackson,Small Business,Paid Search,2025-01-14,352,3,1580.81,1,2,2,Hibernating
+C0157,Noah Kim,Corporate,Social,2025-11-18,44,6,1562.59,4,3,2,Loyal
+C0210,Mason Wilson,Small Business,Organic Search,2025-04-13,263,6,1541.66,2,3,2,At Risk
+C0676,Elijah Anderson,Corporate,Referral,2025-11-19,43,2,1538.87,4,2,2,Potential Loyalist
+C0041,Henry Jackson,Corporate,Organic Search,2025-09-04,119,5,1530.2,3,3,2,Potential Loyalist
+C0547,Aria Garcia,Consumer,Organic Search,2025-02-08,327,2,1504.28,1,2,2,Hibernating
+C0685,Lucas Lee,Small Business,Paid Search,2025-04-30,246,2,1479.67,2,2,2,Hibernating
+C0671,Liam Harris,Small Business,Marketplace,2025-07-11,174,1,1462.36,2,1,2,Hibernating
+C0080,Nora Kim,Corporate,Social,2025-11-22,40,2,1459.64,4,2,2,Potential Loyalist
+C0350,Elijah Lee,Consumer,Social,2025-02-10,325,1,1455.98,1,1,2,Hibernating
+C0059,Mia Singh,Small Business,Organic Search,2025-08-31,123,5,1455.3,3,3,2,Potential Loyalist
+C0513,Ava Brown,Small Business,Organic Search,2024-01-20,712,2,1443.23,1,2,2,Hibernating
+C0268,Olivia Anderson,Corporate,Referral,2025-04-25,251,3,1419.56,2,2,2,Hibernating
+C0599,Noah Lewis,Consumer,Organic Search,2025-11-10,52,2,1416.56,4,2,2,Potential Loyalist
+C0660,Lucas Lewis,Consumer,Marketplace,2025-12-01,31,2,1414.34,4,2,2,Potential Loyalist
+C0292,Zoe Taylor,Corporate,Referral,2025-10-21,72,2,1397.48,3,2,2,Potential Loyalist
+C0056,Olivia Jackson,Consumer,Referral,2025-12-19,13,4,1387.84,5,3,2,Loyal
+C0146,Maya Harris,Consumer,Organic Search,2025-09-09,114,1,1377.15,3,1,2,Potential Loyalist
+C0015,Ethan Thomas,Consumer,Email,2024-11-02,425,6,1365.27,1,3,2,At Risk
+C0325,Emma Harris,Corporate,Organic Search,2025-10-18,75,4,1346.89,3,3,2,Potential Loyalist
+C0549,Mia Garcia,Consumer,Paid Search,2025-11-01,61,3,1327.52,3,2,2,Potential Loyalist
+C0565,Nora Thomas,Corporate,Paid Search,2025-06-04,211,3,1326.99,2,2,2,Hibernating
+C0605,Henry Johnson,Corporate,Organic Search,2024-02-13,688,1,1314.55,1,1,2,Hibernating
+C0327,Olivia Kim,Small Business,Email,2025-07-24,161,4,1312.5,2,3,2,At Risk
+C0709,Henry Walker,Consumer,Organic Search,2025-04-11,265,3,1307.49,2,3,2,At Risk
+C0347,Sophia Johnson,Consumer,Paid Search,2025-04-08,268,1,1294.3,2,1,2,Hibernating
+C0398,Liam Moore,Small Business,Organic Search,2025-12-06,26,1,1292.41,4,1,2,Potential Loyalist
+C0061,Nora Clark,Consumer,Paid Search,2024-08-13,506,1,1260.6,1,1,2,Hibernating
+C0077,Elijah Moore,Corporate,Organic Search,2025-12-06,26,3,1246.85,4,2,2,Potential Loyalist
+C0073,Leo White,Corporate,Social,2025-01-26,340,2,1242.39,1,2,2,Hibernating
+C0133,Layla Thomas,Consumer,Paid Search,2025-07-04,181,5,1231.52,2,3,2,At Risk
+C0121,Ethan Clark,Corporate,Social,2025-11-04,58,4,1219.03,4,3,2,Loyal
+C0158,Noah Taylor,Consumer,Marketplace,2025-07-21,164,2,1217.76,2,2,2,Hibernating
+C0263,Ethan Davis,Corporate,Social,2025-11-19,43,2,1215.48,4,2,2,Potential Loyalist
+C0439,Mia Wilson,Small Business,Organic Search,2025-10-22,71,1,1191.33,3,1,2,Potential Loyalist
+C0105,Aria Taylor,Consumer,Organic Search,2024-01-20,712,1,1158.6,1,1,2,Hibernating
+C0553,Emma Patel,Small Business,Social,2024-10-21,437,1,1144.16,1,1,2,Hibernating
+C0281,Emma Lee,Corporate,Paid Search,2025-04-21,255,2,1139.19,2,2,2,Hibernating
+C0401,Emma Lewis,Corporate,Organic Search,2024-01-21,711,1,1131.85,1,1,2,Hibernating
+C0117,Liam Martinez,Small Business,Organic Search,2024-11-04,423,2,1128.11,1,2,2,Hibernating
+C0458,Maya Brown,Small Business,Paid Search,2024-08-09,510,3,1127.25,1,2,2,Hibernating
+C0115,Amelia Taylor,Small Business,Organic Search,2024-09-01,487,1,1125.38,1,1,2,Hibernating
+C0119,Layla Martinez,Small Business,Social,2024-05-06,605,1,1121.5,1,1,2,Hibernating
+C0241,Amelia Walker,Consumer,Organic Search,2025-09-28,95,2,1108.18,3,2,2,Potential Loyalist
+C0603,Elijah Patel,Consumer,Referral,2025-06-13,202,5,1107.18,2,3,2,At Risk
+C0219,Layla Taylor,Consumer,Social,2024-07-26,524,1,1084.66,1,1,2,Hibernating
+C0714,Amelia White,Small Business,Email,2024-12-01,396,3,1072.76,1,2,2,Hibernating
+C0641,Mason White,Small Business,Social,2025-10-12,81,4,1070.17,3,3,2,Potential Loyalist
+C0140,Leo Patel,Corporate,Marketplace,2025-04-06,270,2,1055.59,2,2,2,Hibernating
+C0679,Maya Jackson,Corporate,Organic Search,2025-04-28,248,2,1053.48,2,2,2,Hibernating
+C0282,Henry Thomas,Consumer,Paid Search,2025-10-13,80,1,1042.45,3,1,2,Potential Loyalist
+C0585,Ava Lewis,Consumer,Referral,2025-08-07,147,4,1015.54,2,3,2,At Risk
+C0315,Olivia Lee,Small Business,Paid Search,2024-12-04,393,1,1011.62,1,1,2,Hibernating
+C0198,Noah Singh,Small Business,Organic Search,2025-07-27,158,4,1011.54,2,3,2,At Risk
+C0242,Maya Wilson,Small Business,Marketplace,2025-08-04,150,4,1008.14,2,3,2,At Risk
+C0275,Leo White,Corporate,Organic Search,2025-04-29,247,2,998.81,2,2,2,Hibernating
+C0377,Henry Thomas,Corporate,Referral,2024-11-29,398,2,994.39,1,2,2,Hibernating
+C0192,Aria Jackson,Corporate,Marketplace,2025-10-01,92,2,967.21,3,2,2,Potential Loyalist
+C0633,Mia Garcia,Consumer,Social,2025-09-17,106,2,947.39,3,2,2,Potential Loyalist
+C0602,Maya Harris,Small Business,Marketplace,2025-09-21,102,3,939.74,3,2,2,Potential Loyalist
+C0177,Liam Lewis,Consumer,Paid Search,2025-03-31,276,4,934.2,2,3,2,At Risk
+C0364,James Taylor,Corporate,Organic Search,2025-05-25,221,4,907.84,2,3,2,At Risk
+C0120,Emma Moore,Consumer,Marketplace,2024-12-07,390,2,901.08,1,2,2,Hibernating
+C0487,Aria Singh,Small Business,Paid Search,2024-12-11,386,3,897.58,1,3,2,At Risk
+C0223,Leo Garcia,Corporate,Organic Search,2024-06-25,555,1,897.4,1,1,2,Hibernating
+C0331,Ava Moore,Consumer,Referral,2025-10-17,76,2,891.23,3,2,2,Potential Loyalist
+C0324,Maya Taylor,Corporate,Referral,2025-09-30,93,1,891.12,3,1,2,Potential Loyalist
+C0131,James Singh,Corporate,Paid Search,2025-03-03,304,4,878.03,2,3,2,At Risk
+C0183,Amelia Patel,Consumer,Social,2025-04-05,271,5,873.99,2,3,2,At Risk
+C0138,Aria Walker,Consumer,Email,2025-11-23,39,3,871.86,4,2,2,Potential Loyalist
+C0474,Liam Walker,Consumer,Organic Search,2025-12-20,12,3,871.11,5,2,2,Potential Loyalist
+C0224,James Garcia,Corporate,Paid Search,2025-11-20,42,2,858.49,4,2,2,Potential Loyalist
+C0218,Ethan Lee,Small Business,Email,2025-05-19,227,1,841.96,2,1,2,Hibernating
+C0057,Amelia White,Consumer,Organic Search,2024-05-25,586,1,838.56,1,1,2,Hibernating
+C0692,James White,Consumer,Paid Search,2025-12-23,9,2,837.34,5,2,2,Potential Loyalist
+C0524,James Wilson,Consumer,Social,2025-10-09,84,3,825.84,3,2,2,Potential Loyalist
+C0463,James Taylor,Consumer,Paid Search,2024-07-12,538,1,818.57,1,1,2,Hibernating
+C0397,Noah Jackson,Small Business,Social,2025-02-14,321,4,814.84,1,3,2,At Risk
+C0649,Noah Jackson,Consumer,Referral,2025-11-19,43,4,812.6,4,3,2,Loyal
+C0304,Nora Lewis,Consumer,Email,2025-03-14,293,2,783.59,2,2,2,Hibernating
+C0521,Mason Jackson,Consumer,Email,2025-12-28,4,2,782.39,5,2,2,Potential Loyalist
+C0084,Ethan Brown,Consumer,Referral,2024-01-31,701,1,782.12,1,1,2,Hibernating
+C0481,Maya Brown,Corporate,Referral,2024-07-08,542,2,779.22,1,2,2,Hibernating
+C0307,Henry Moore,Consumer,Organic Search,2025-03-10,297,2,773.99,2,2,2,Hibernating
+C0577,Ava Moore,Corporate,Referral,2025-10-30,63,6,767.54,3,3,2,Potential Loyalist
+C0508,Lucas Singh,Consumer,Referral,2025-10-02,91,4,757.04,3,3,2,Potential Loyalist
+C0354,Mia Clark,Corporate,Paid Search,2025-04-23,253,1,739.36,2,1,2,Hibernating
+C0204,Olivia Patel,Corporate,Email,2025-11-27,35,2,735.65,4,2,2,Potential Loyalist
+C0468,Henry Johnson,Corporate,Social,2024-11-21,406,2,724.81,1,2,2,Hibernating
+C0190,Lucas Garcia,Corporate,Marketplace,2025-06-21,194,1,722.44,2,1,2,Hibernating
+C0167,Liam Walker,Consumer,Paid Search,2025-03-02,305,2,715.23,2,2,2,Hibernating
+C0515,Sophia Moore,Consumer,Email,2024-09-16,472,1,713.78,1,1,2,Hibernating
+C0083,Leo Taylor,Small Business,Social,2024-04-20,621,1,706.96,1,1,2,Hibernating
+C0024,Mason Wilson,Small Business,Organic Search,2025-11-18,44,6,696.44,4,3,2,Loyal
+C0365,Ava White,Consumer,Social,2025-06-15,200,2,688.63,2,2,2,Hibernating
+C0643,Amelia Garcia,Consumer,Email,2024-06-30,550,1,671.14,1,1,2,Hibernating
+C0579,Olivia Johnson,Small Business,Email,2025-05-13,233,2,666.43,2,2,2,Hibernating
+C0678,Noah Kim,Consumer,Referral,2024-05-09,602,1,646.9,1,1,2,Hibernating
+C0112,Maya Thomas,Consumer,Referral,2025-12-22,10,1,625.83,5,1,2,Potential Loyalist
+C0132,Aria Davis,Consumer,Organic Search,2024-09-24,464,1,621.6,1,1,2,Hibernating
+C0068,Aria Taylor,Consumer,Social,2024-03-09,663,1,616.07,1,1,2,Hibernating
+C0627,Henry Garcia,Consumer,Email,2025-01-14,352,2,609.95,1,2,2,Hibernating
+C0173,Mason Anderson,Consumer,Paid Search,2024-04-27,614,2,599.62,1,2,2,Hibernating
+C0495,Ethan Jackson,Consumer,Email,2025-05-21,225,4,597.07,2,3,2,At Risk
+C0317,Leo Brown,Corporate,Social,2025-08-02,152,2,584.57,2,2,2,Hibernating
+C0230,Aria Singh,Corporate,Email,2025-09-27,96,2,582.5,3,2,2,Potential Loyalist
+C0370,Maya Clark,Small Business,Social,2024-11-24,403,2,579.52,1,2,2,Hibernating
+C0280,Noah Lewis,Corporate,Organic Search,2024-08-12,507,3,571.52,1,3,2,At Risk
+C0108,Mason White,Consumer,Paid Search,2024-09-11,477,3,569.6,1,2,2,Hibernating
+C0372,Olivia Brown,Small Business,Marketplace,2024-08-25,494,2,569.5,1,2,1,Hibernating
+C0101,Layla Garcia,Corporate,Social,2024-09-09,479,1,559.38,1,1,1,Hibernating
+C0179,Mason Singh,Corporate,Paid Search,2024-12-28,369,1,547.4,1,1,1,Hibernating
+C0150,Aria Clark,Small Business,Social,2024-08-10,509,2,536.17,1,2,1,Hibernating
+C0647,Nora Wilson,Consumer,Paid Search,2024-12-16,381,2,532.75,1,2,1,Hibernating
+C0395,Sophia Davis,Corporate,Social,2025-07-06,179,2,532.02,2,2,1,Hibernating
+C0650,Zoe Walker,Small Business,Social,2025-10-11,82,3,521.22,3,2,1,Potential Loyalist
+C0154,Ethan Garcia,Corporate,Organic Search,2025-09-19,104,3,517.42,3,2,1,Potential Loyalist
+C0297,Elijah Thomas,Small Business,Email,2025-07-23,162,2,512.86,2,2,1,Hibernating
+C0702,Liam Lee,Consumer,Social,2024-08-08,511,1,510,1,1,1,Hibernating
+C0023,Elijah Lee,Consumer,Referral,2024-04-20,621,1,506.35,1,1,1,Hibernating
+C0244,Noah Wilson,Corporate,Paid Search,2025-09-14,109,1,502.99,3,1,1,Potential Loyalist
+C0423,James Taylor,Small Business,Organic Search,2024-11-24,403,1,480.72,1,1,1,Hibernating
+C0703,James Kim,Consumer,Email,2024-07-23,527,2,479.13,1,2,1,Hibernating
+C0491,Emma Moore,Consumer,Social,2025-03-16,291,2,461.99,2,2,1,Hibernating
+C0690,Mia Lee,Small Business,Marketplace,2024-04-27,614,1,461.58,1,1,1,Hibernating
+C0076,Sophia Anderson,Consumer,Social,2024-04-15,626,1,461.51,1,1,1,Hibernating
+C0429,Zoe Harris,Consumer,Paid Search,2024-06-08,572,1,453.03,1,1,1,Hibernating
+C0434,Henry Clark,Consumer,Organic Search,2024-09-15,473,2,451.74,1,2,1,Hibernating
+C0413,Mason Patel,Consumer,Social,2024-02-21,680,1,447.09,1,1,1,Hibernating
+C0514,James Lewis,Consumer,Organic Search,2025-04-20,256,1,443.38,2,1,1,Hibernating
+C0550,Olivia Davis,Consumer,Paid Search,2025-05-28,218,1,440.01,2,1,1,Hibernating
+C0176,Mia Jackson,Consumer,Organic Search,2025-09-13,110,2,435.98,3,2,1,Potential Loyalist
+C0642,Mia Taylor,Corporate,Referral,2025-11-20,42,1,431.75,4,1,1,Potential Loyalist
+C0533,Elijah Lee,Consumer,Marketplace,2024-05-16,595,1,427.82,1,2,1,Hibernating
+C0215,Lucas Patel,Small Business,Referral,2025-09-21,102,1,424.29,3,1,1,Potential Loyalist
+C0093,Lucas Lee,Consumer,Social,2025-08-10,144,1,421.96,3,1,1,Potential Loyalist
+C0051,Mason Clark,Small Business,Organic Search,2025-03-17,290,2,398.07,2,2,1,Hibernating
+C0545,Maya Garcia,Corporate,Organic Search,2024-09-29,459,1,397.11,1,1,1,Hibernating
+C0680,Ava Moore,Consumer,Referral,2025-10-23,70,2,384.48,3,2,1,Potential Loyalist
+C0114,Nora Brown,Consumer,Social,2025-11-28,34,3,380.72,4,3,1,Loyal
+C0708,Mia Brown,Small Business,Paid Search,2025-09-28,95,3,379.9,3,2,1,Potential Loyalist
+C0129,Henry Walker,Small Business,Email,2025-03-21,286,1,377.68,2,1,1,Hibernating
+C0097,Olivia Davis,Consumer,Marketplace,2025-08-11,143,1,374.47,3,1,1,Potential Loyalist
+C0311,Leo Lewis,Corporate,Organic Search,2025-10-20,73,1,371.51,3,1,1,Potential Loyalist
+C0008,Lucas White,Consumer,Referral,2025-12-18,14,2,369.6,5,2,1,Potential Loyalist
+C0361,Mia Thomas,Consumer,Marketplace,2025-11-04,58,1,354.06,4,1,1,Potential Loyalist
+C0686,Zoe Brown,Corporate,Social,2025-06-09,206,2,349.75,2,2,1,Hibernating
+C0042,Zoe Walker,Consumer,Paid Search,2024-06-19,561,1,349.3,1,1,1,Hibernating
+C0362,Sophia Clark,Consumer,Social,2025-05-07,239,1,347.73,2,1,1,Hibernating
+C0693,Olivia Patel,Consumer,Organic Search,2025-02-23,312,1,343.5,1,1,1,Hibernating
+C0654,Liam Clark,Consumer,Paid Search,2024-10-18,440,1,343.18,1,1,1,Hibernating
+C0078,Ava Singh,Consumer,Referral,2024-04-19,622,2,335.98,1,2,1,Hibernating
+C0619,Sophia Martinez,Corporate,Organic Search,2025-07-17,168,1,326.13,2,2,1,Hibernating
+C0165,Elijah Lewis,Consumer,Organic Search,2025-11-04,58,2,324.3,4,2,1,Potential Loyalist
+C0099,Henry Johnson,Consumer,Paid Search,2024-10-14,444,1,321.61,1,1,1,Hibernating
+C0559,Lucas Clark,Small Business,Email,2024-12-07,390,1,307.04,1,1,1,Hibernating
+C0257,Sophia Clark,Consumer,Social,2025-06-30,185,1,301,2,1,1,Hibernating
+C0113,Leo Garcia,Consumer,Organic Search,2024-09-30,458,1,296.73,1,1,1,Hibernating
+C0486,Zoe Thomas,Small Business,Social,2024-02-27,674,1,294.96,1,1,1,Hibernating
+C0272,Layla Brown,Corporate,Referral,2025-06-21,194,2,289.29,2,2,1,Hibernating
+C0018,Mason Kim,Small Business,Marketplace,2024-12-07,390,1,289.15,1,1,1,Hibernating
+C0511,Lucas Johnson,Small Business,Organic Search,2024-11-19,408,1,277.56,1,1,1,Hibernating
+C0274,Emma Johnson,Corporate,Social,2025-03-17,290,2,271.12,2,2,1,Hibernating
+C0440,Lucas Taylor,Corporate,Social,2024-06-09,571,3,264.49,1,2,1,Hibernating
+C0250,Sophia Garcia,Consumer,Social,2025-04-10,266,1,255.99,2,1,1,Hibernating
+C0030,Liam Walker,Small Business,Paid Search,2024-01-16,716,1,253.51,1,2,1,Hibernating
+C0665,Nora Clark,Consumer,Referral,2025-04-28,248,1,250.24,2,1,1,Hibernating
+C0137,Layla Martinez,Consumer,Social,2025-03-11,296,2,249.68,2,2,1,Hibernating
+C0384,Olivia Garcia,Consumer,Organic Search,2025-05-10,236,1,243.98,2,1,1,Hibernating
+C0595,James Clark,Small Business,Paid Search,2025-11-11,51,2,240.99,4,2,1,Potential Loyalist
+C0360,Henry Brown,Corporate,Social,2024-01-30,702,1,240.93,1,1,1,Hibernating
+C0567,Aria Lee,Small Business,Organic Search,2025-12-12,20,2,238.57,5,2,1,Potential Loyalist
+C0505,Sophia Johnson,Consumer,Social,2024-07-17,533,1,237.52,1,1,1,Hibernating
+C0169,Aria Clark,Corporate,Paid Search,2025-05-03,243,2,236.69,2,2,1,Hibernating
+C0237,Olivia Patel,Corporate,Social,2025-06-22,193,1,236.37,2,1,1,Hibernating
+C0626,Ava Walker,Small Business,Organic Search,2025-05-20,226,2,231.09,2,2,1,Hibernating
+C0394,Liam Wilson,Consumer,Organic Search,2025-01-26,340,1,227.85,1,1,1,Hibernating
+C0386,Nora Wilson,Consumer,Referral,2024-02-19,682,1,215.48,1,1,1,Hibernating
+C0442,Aria Taylor,Consumer,Referral,2024-11-08,419,1,215.28,1,1,1,Hibernating
+C0013,Olivia Garcia,Corporate,Referral,2024-05-27,584,1,203.77,1,1,1,Hibernating
+C0628,Amelia Kim,Consumer,Paid Search,2025-10-31,62,1,198.78,3,2,1,Potential Loyalist
+C0352,Zoe Martinez,Consumer,Email,2025-12-14,18,1,198.78,5,1,1,Potential Loyalist
+C0706,Ethan Moore,Consumer,Organic Search,2025-10-11,82,3,198.34,3,2,1,Potential Loyalist
+C0426,Mia Walker,Corporate,Paid Search,2025-09-02,121,2,193.67,3,2,1,Potential Loyalist
+C0447,Elijah Brown,Small Business,Referral,2024-04-06,635,1,190.56,1,1,1,Hibernating
+C0656,Maya Patel,Consumer,Organic Search,2024-10-10,448,1,186.08,1,1,1,Hibernating
+C0501,Aria Lee,Consumer,Social,2025-11-09,53,1,180.79,4,1,1,Potential Loyalist
+C0187,Nora Davis,Consumer,Referral,2025-06-26,189,1,178.9,2,1,1,Hibernating
+C0029,Sophia Clark,Consumer,Organic Search,2025-10-09,84,1,174.39,3,1,1,Potential Loyalist
+C0568,Nora Davis,Consumer,Marketplace,2024-12-06,391,1,170.92,1,1,1,Hibernating
+C0419,Elijah Lewis,Consumer,Organic Search,2024-05-20,591,1,170.66,1,1,1,Hibernating
+C0500,James Singh,Consumer,Social,2024-05-05,606,1,154.4,1,1,1,Hibernating
+C0475,James Singh,Consumer,Organic Search,2025-11-04,58,2,153.85,4,2,1,Potential Loyalist
+C0674,Amelia Walker,Small Business,Paid Search,2025-08-20,134,1,151.26,3,1,1,Potential Loyalist
+C0424,James Lewis,Consumer,Marketplace,2025-11-09,53,1,150.5,4,1,1,Potential Loyalist
+C0389,Mia Anderson,Consumer,Paid Search,2025-09-15,108,1,141.8,3,1,1,Potential Loyalist
+C0065,Leo Harris,Small Business,Referral,2025-02-27,308,1,135.25,2,1,1,Hibernating
+C0208,Amelia Wilson,Consumer,Social,2025-10-20,73,1,134.2,3,1,1,Potential Loyalist
+C0225,James Jackson,Corporate,Organic Search,2024-10-02,456,1,132.96,1,1,1,Hibernating
+C0053,Layla Davis,Consumer,Paid Search,2024-07-13,537,1,128.13,1,1,1,Hibernating
+C0258,Liam Harris,Consumer,Referral,2024-01-26,706,1,127.5,1,1,1,Hibernating
+C0027,Leo Moore,Consumer,Referral,2024-05-23,588,1,125.64,1,1,1,Hibernating
+C0162,Maya White,Consumer,Social,2024-05-27,584,1,125.64,1,1,1,Hibernating
+C0301,Sophia Kim,Corporate,Paid Search,2024-05-07,604,1,125.57,1,1,1,Hibernating
+C0695,Mia Jackson,Consumer,Paid Search,2025-01-25,341,1,124.28,1,1,1,Hibernating
+C0485,Zoe Patel,Corporate,Referral,2025-12-27,5,2,118.29,5,2,1,Potential Loyalist
+C0430,Aria Thomas,Corporate,Marketplace,2025-04-17,259,1,113.37,2,1,1,Hibernating
+C0064,Henry White,Consumer,Email,2025-11-24,38,1,113.08,4,1,1,Potential Loyalist
+C0578,Emma Clark,Consumer,Social,2025-05-05,241,1,111.78,2,1,1,Hibernating
+C0283,Mia Kim,Consumer,Paid Search,2025-01-28,338,1,108.44,1,1,1,Hibernating
+C0127,Mason Johnson,Small Business,Organic Search,2024-02-05,696,1,95.51,1,1,1,Hibernating
+C0171,Zoe Jackson,Consumer,Social,2025-07-18,167,1,84.49,2,1,1,Hibernating
+C0266,Henry Martinez,Small Business,Paid Search,2025-11-21,41,1,53.68,4,1,1,Potential Loyalist
+C0082,Mia Walker,Corporate,Paid Search,2024-05-06,605,1,49.62,1,1,1,Hibernating
+C0341,Henry Walker,Consumer,Paid Search,2025-02-15,320,1,46.94,1,1,1,Hibernating
+C0020,Aria Garcia,Small Business,Paid Search,2025-01-17,349,1,39.79,1,1,1,Hibernating
+C0675,Henry Moore,Consumer,Marketplace,2024-05-17,594,1,33.68,1,1,1,Hibernating
+C0141,Layla Harris,Consumer,Paid Search,2024-05-17,594,1,26.84,1,1,1,Hibernating
+C0109,James Taylor,Consumer,Email,2024-03-08,664,1,25.5,1,1,1,Hibernating
+C0228,Aria Martinez,Corporate,Organic Search,2024-08-27,492,1,24.16,1,1,1,Hibernating
+C0122,Sophia Patel,Corporate,Paid Search,2025-01-23,343,1,24.05,1,1,1,Hibernating
+C0357,Aria White,Consumer,Organic Search,2024-03-15,657,1,24.05,1,1,1,Hibernating

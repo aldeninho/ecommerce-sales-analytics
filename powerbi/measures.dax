@@ -1,0 +1,63 @@
+// Core sales measures
+Gross Sales = SUMX(order_items, order_items[quantity] * order_items[unit_price])
+
+Discount Amount = SUMX(order_items, order_items[quantity] * order_items[unit_price] * order_items[discount_pct])
+Booked Revenue = [Gross Sales] - [Discount Amount]
+
+Net Revenue =
+SUMX(order_items, IF(RELATED(orders[order_status]) = "Completed", order_items[quantity] * order_items[unit_price] * (1 - order_items[discount_pct]), 0))
+
+Lost Revenue = [Booked Revenue] - [Net Revenue]
+COGS = SUMX(order_items, IF(RELATED(orders[order_status]) = "Completed", order_items[quantity] * order_items[unit_cost], 0))
+Gross Profit = [Net Revenue] - [COGS]
+Gross Margin % = DIVIDE([Gross Profit], [Net Revenue])
+Allocated Shipping Cost = SUM(orders[shipping_cost])
+Return Processing Cost = SUMX(FILTER(order_items, RELATED(orders[order_status]) = "Returned"), order_items[quantity] * order_items[unit_cost] * 0.15)
+Cancellation Processing Cost = CALCULATE(DISTINCTCOUNT(orders[order_id]), orders[order_status] = "Cancelled") * 2.5
+Contribution Profit = [Gross Profit] - [Allocated Shipping Cost] - [Return Processing Cost] - [Cancellation Processing Cost]
+Contribution Margin % = DIVIDE([Contribution Profit], [Net Revenue])
+
+// Orders and customers
+Total Orders = DISTINCTCOUNT(orders[order_id])
+Completed Orders = CALCULATE([Total Orders], orders[order_status] = "Completed")
+Returned Orders = CALCULATE([Total Orders], orders[order_status] = "Returned")
+Cancelled Orders = CALCULATE([Total Orders], orders[order_status] = "Cancelled")
+Average Order Value = DIVIDE([Net Revenue], [Completed Orders])
+Return Rate = DIVIDE([Returned Orders], [Total Orders])
+Cancellation Rate = DIVIDE([Cancelled Orders], [Total Orders])
+Distinct Customers = DISTINCTCOUNT(orders[customer_id])
+
+Repeat Customers =
+COUNTROWS(FILTER(VALUES(customers[customer_id]), CALCULATE(DISTINCTCOUNT(orders[order_id]), orders[order_status] = "Completed") > 1))
+
+Repeat Purchase Rate = DIVIDE([Repeat Customers], [Distinct Customers])
+Customer Revenue Rank = RANKX(ALLSELECTED(customers[customer_id]), [Net Revenue],, DESC, DENSE)
+
+Top 10 Customer Revenue % =
+VAR TopCustomers = TOPN(10, ALLSELECTED(customers[customer_id]), [Net Revenue], DESC)
+RETURN DIVIDE(CALCULATE([Net Revenue], KEEPFILTERS(TopCustomers)), CALCULATE([Net Revenue], ALLSELECTED(customers[customer_id])))
+
+// Time intelligence
+Previous Month Revenue = CALCULATE([Net Revenue], DATEADD('Date'[Date], -1, MONTH))
+MoM Revenue Growth % = DIVIDE([Net Revenue] - [Previous Month Revenue], [Previous Month Revenue])
+Rolling 3M Revenue = CALCULATE([Net Revenue], DATESINPERIOD('Date'[Date], MAX('Date'[Date]), -3, MONTH))
+Previous Year Revenue = CALCULATE([Net Revenue], SAMEPERIODLASTYEAR('Date'[Date]))
+YoY Revenue Growth % = DIVIDE([Net Revenue] - [Previous Year Revenue], [Previous Year Revenue])
+
+// Targets and variance
+Revenue Target = SUM(targets[revenue_target])
+Revenue Variance = [Net Revenue] - [Revenue Target]
+Revenue Variance % = DIVIDE([Revenue Variance], [Revenue Target])
+Revenue Attainment % = DIVIDE([Net Revenue], [Revenue Target])
+Contribution Profit Target = SUM(targets[contribution_profit_target])
+Contribution Profit Variance = [Contribution Profit] - [Contribution Profit Target]
+Contribution Profit Attainment % = DIVIDE([Contribution Profit], [Contribution Profit Target])
+
+Regional Status =
+SWITCH(TRUE(), [Revenue Attainment %] >= 1, "On Track", [Revenue Attainment %] >= 0.9, "At Risk", "Below Target")
+
+// Delivery performance
+Late Orders = CALCULATE(DISTINCTCOUNT(orders[order_id]), FILTER(orders, orders[actual_delivery_date] > orders[promised_delivery_date]))
+Late Delivery Rate = DIVIDE([Late Orders], [Total Orders] - [Cancelled Orders])
+Average Delivery Delay Days = AVERAGEX(FILTER(orders, orders[actual_delivery_date] > orders[promised_delivery_date]), DATEDIFF(orders[promised_delivery_date], orders[actual_delivery_date], DAY))
+

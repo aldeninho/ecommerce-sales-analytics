@@ -1,0 +1,9 @@
+region_id,region,city,state,market
+R01,North,New York,NY,Northeast
+R02,North,Boston,MA,Northeast
+R03,South,Atlanta,GA,Southeast
+R04,South,Dallas,TX,Southwest
+R05,West,Los Angeles,CA,Pacific
+R06,West,Seattle,WA,Pacific Northwest
+R07,Central,Chicago,IL,Midwest
+R08,Central,Denver,CO,Mountain

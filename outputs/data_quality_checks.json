@@ -1,0 +1,16 @@
+{
+  "regions": 8,
+  "customers": 720,
+  "products": 48,
+  "orders": 5200,
+  "order_items": 9139,
+  "targets": 192,
+  "orphan_order_items": 0,
+  "duplicate_order_ids": 0,
+  "invalid_discounts": 0,
+  "net_revenue": 2224957.61,
+  "orders_in_view": 5200,
+  "gross_profit": 716170.23,
+  "lost_revenue": 281722.4,
+  "contribution_profit": 631610.04
+}

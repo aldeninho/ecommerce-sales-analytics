@@ -1,0 +1,382 @@
+{
+  "executive": {
+    "net_revenue": 2224957.61,
+    "completed_orders": 4667,
+    "aov": 476.74,
+    "gross_profit": 716170.23,
+    "gross_margin_pct": 32.19,
+    "contribution_profit": 631610.04,
+    "contribution_margin_pct": 28.39,
+    "return_rate_pct": 7.0,
+    "cancellation_rate_pct": 3.25,
+    "lost_revenue": 281722.4
+  },
+  "category": [
+    {
+      "category": "Furniture",
+      "net_revenue": 821598.95,
+      "revenue_share_pct": 36.93,
+      "contribution_profit": 252717.57,
+      "lost_revenue": 135641.15,
+      "lost_revenue_rate_pct": 14.17
+    },
+    {
+      "category": "Electronics",
+      "net_revenue": 813169.55,
+      "revenue_share_pct": 36.55,
+      "contribution_profit": 207347.3,
+      "lost_revenue": 85291.96,
+      "lost_revenue_rate_pct": 9.49
+    },
+    {
+      "category": "Home & Kitchen",
+      "net_revenue": 408915.36,
+      "revenue_share_pct": 18.38,
+      "contribution_profit": 123328.64,
+      "lost_revenue": 42507.2,
+      "lost_revenue_rate_pct": 9.42
+    },
+    {
+      "category": "Office Supplies",
+      "net_revenue": 181273.75,
+      "revenue_share_pct": 8.15,
+      "contribution_profit": 48216.53,
+      "lost_revenue": 18282.08,
+      "lost_revenue_rate_pct": 9.16
+    }
+  ],
+  "region_yoy": [
+    {
+      "region": "South",
+      "revenue_2024": 332541.26,
+      "revenue_2025": 385830.93,
+      "yoy_growth_pct": 16.02
+    },
+    {
+      "region": "West",
+      "revenue_2024": 313207.8,
+      "revenue_2025": 322289.61,
+      "yoy_growth_pct": 2.9
+    },
+    {
+      "region": "North",
+      "revenue_2024": 284255.79,
+      "revenue_2025": 275083.98,
+      "yoy_growth_pct": -3.23
+    },
+    {
+      "region": "Central",
+      "revenue_2024": 178451.28,
+      "revenue_2025": 133296.95,
+      "yoy_growth_pct": -25.3
+    }
+  ],
+  "monthly_extremes": [
+    {
+      "month": "2025-04",
+      "revenue": 89055.76,
+      "mom_growth_pct": -17.78
+    },
+    {
+      "month": "2024-06",
+      "revenue": 90136.92,
+      "mom_growth_pct": -13.32
+    },
+    {
+      "month": "2025-10",
+      "revenue": 87214.65,
+      "mom_growth_pct": -13.0
+    },
+    {
+      "month": "2024-11",
+      "revenue": 88987.32,
+      "mom_growth_pct": -11.78
+    },
+    {
+      "month": "2025-08",
+      "revenue": 87465.88,
+      "mom_growth_pct": -11.76
+    },
+    {
+      "month": "2024-04",
+      "revenue": 81276.34,
+      "mom_growth_pct": -11.05
+    },
+    {
+      "month": "2024-07",
+      "revenue": 82941.1,
+      "mom_growth_pct": -7.98
+    },
+    {
+      "month": "2025-01",
+      "revenue": 87739.81,
+      "mom_growth_pct": -7.88
+    },
+    {
+      "month": "2025-12",
+      "revenue": 85709.07,
+      "mom_growth_pct": -7.07
+    },
+    {
+      "month": "2024-09",
+      "revenue": 88959.54,
+      "mom_growth_pct": -6.41
+    },
+    {
+      "month": "2025-07",
+      "revenue": 99122.67,
+      "mom_growth_pct": -4.92
+    },
+    {
+      "month": "2025-05",
+      "revenue": 86319.19,
+      "mom_growth_pct": -3.07
+    },
+    {
+      "month": "2024-03",
+      "revenue": 91374.76,
+      "mom_growth_pct": -2.83
+    },
+    {
+      "month": "2024-02",
+      "revenue": 94039.99,
+      "mom_growth_pct": -1.61
+    },
+    {
+      "month": "2025-02",
+      "revenue": 88837.48,
+      "mom_growth_pct": 1.25
+    },
+    {
+      "month": "2025-11",
+      "revenue": 92226.59,
+      "mom_growth_pct": 5.75
+    },
+    {
+      "month": "2024-12",
+      "revenue": 95248.69,
+      "mom_growth_pct": 7.04
+    },
+    {
+      "month": "2024-10",
+      "revenue": 100870.33,
+      "mom_growth_pct": 13.39
+    },
+    {
+      "month": "2024-08",
+      "revenue": 95051.06,
+      "mom_growth_pct": 14.6
+    },
+    {
+      "month": "2025-09",
+      "revenue": 100250.32,
+      "mom_growth_pct": 14.62
+    },
+    {
+      "month": "2025-06",
+      "revenue": 104249.15,
+      "mom_growth_pct": 20.77
+    },
+    {
+      "month": "2025-03",
+      "revenue": 108310.9,
+      "mom_growth_pct": 21.92
+    },
+    {
+      "month": "2024-05",
+      "revenue": 103986.77,
+      "mom_growth_pct": 27.94
+    }
+  ],
+  "top_customers": [
+    {
+      "customer_id": "C0052",
+      "customer_name": "Elijah Singh",
+      "segment": "Corporate",
+      "revenue": 20646.13,
+      "revenue_share_pct": 0.93
+    },
+    {
+      "customer_id": "C0580",
+      "customer_name": "Ethan Singh",
+      "segment": "Consumer",
+      "revenue": 19031.34,
+      "revenue_share_pct": 0.86
+    },
+    {
+      "customer_id": "C0581",
+      "customer_name": "Leo Davis",
+      "segment": "Consumer",
+      "revenue": 18476.84,
+      "revenue_share_pct": 0.83
+    },
+    {
+      "customer_id": "C0348",
+      "customer_name": "Emma Patel",
+      "segment": "Small Business",
+      "revenue": 17931.48,
+      "revenue_share_pct": 0.81
+    },
+    {
+      "customer_id": "C0213",
+      "customer_name": "Ava Davis",
+      "segment": "Corporate",
+      "revenue": 17577.9,
+      "revenue_share_pct": 0.79
+    },
+    {
+      "customer_id": "C0557",
+      "customer_name": "Lucas Kim",
+      "segment": "Consumer",
+      "revenue": 16264.99,
+      "revenue_share_pct": 0.73
+    },
+    {
+      "customer_id": "C0552",
+      "customer_name": "Elijah Harris",
+      "segment": "Consumer",
+      "revenue": 15082.39,
+      "revenue_share_pct": 0.68
+    },
+    {
+      "customer_id": "C0033",
+      "customer_name": "Amelia Clark",
+      "segment": "Consumer",
+      "revenue": 14937.72,
+      "revenue_share_pct": 0.67
+    },
+    {
+      "customer_id": "C0460",
+      "customer_name": "Emma Patel",
+      "segment": "Consumer",
+      "revenue": 14920.14,
+      "revenue_share_pct": 0.67
+    },
+    {
+      "customer_id": "C0161",
+      "customer_name": "Zoe Lewis",
+      "segment": "Consumer",
+      "revenue": 14661.46,
+      "revenue_share_pct": 0.66
+    }
+  ],
+  "top_products": [
+    {
+      "product_name": "Filing Cabinet",
+      "category": "Furniture",
+      "net_revenue": 166999.23,
+      "contribution_profit": 51654.1,
+      "lost_revenue": 26623.98
+    },
+    {
+      "product_name": "Power Bank",
+      "category": "Electronics",
+      "net_revenue": 133460.3,
+      "contribution_profit": 31004.83,
+      "lost_revenue": 9342.01
+    },
+    {
+      "product_name": "Task Chair",
+      "category": "Furniture",
+      "net_revenue": 119166.58,
+      "contribution_profit": 33280.88,
+      "lost_revenue": 20624.44
+    },
+    {
+      "product_name": "Mechanical Keyboard",
+      "category": "Electronics",
+      "net_revenue": 114393.89,
+      "contribution_profit": 31159.6,
+      "lost_revenue": 9001.55
+    },
+    {
+      "product_name": "Noise-Canceling Earbuds",
+      "category": "Electronics",
+      "net_revenue": 110487.24,
+      "contribution_profit": 30591.27,
+      "lost_revenue": 18640.17
+    },
+    {
+      "product_name": "Storage Ottoman",
+      "category": "Furniture",
+      "net_revenue": 103535.69,
+      "contribution_profit": 36668.97,
+      "lost_revenue": 10469.6
+    },
+    {
+      "product_name": "Ergonomic Chair",
+      "category": "Furniture",
+      "net_revenue": 99110.17,
+      "contribution_profit": 35478.57,
+      "lost_revenue": 18078.93
+    },
+    {
+      "product_name": "Wi-Fi Router",
+      "category": "Electronics",
+      "net_revenue": 83841.06,
+      "contribution_profit": 18742.31,
+      "lost_revenue": 11795.02
+    },
+    {
+      "product_name": "Webcam",
+      "category": "Electronics",
+      "net_revenue": 78211.78,
+      "contribution_profit": 22959.0,
+      "lost_revenue": 4155.65
+    },
+    {
+      "product_name": "Desk Lamp",
+      "category": "Furniture",
+      "net_revenue": 73057.84,
+      "contribution_profit": 20738.64,
+      "lost_revenue": 12703.79
+    }
+  ],
+  "target_attainment": {
+    "actual_revenue": 2224957.61,
+    "revenue_target": 2315648.94,
+    "revenue_attainment_pct": 96.08,
+    "actual_contribution_profit": 631610.04,
+    "contribution_profit_target": 787320.64,
+    "contribution_attainment_pct": 80.22
+  },
+  "delivery_return_rate": [
+    {
+      "delivery_status": "Late",
+      "orders": 828,
+      "return_rate_pct": 7.73
+    },
+    {
+      "delivery_status": "On time",
+      "orders": 4203,
+      "return_rate_pct": 7.14
+    }
+  ],
+  "return_reasons": [
+    {
+      "return_reason": "Not as described",
+      "returned_orders": 138,
+      "lost_revenue": 50130.27
+    },
+    {
+      "return_reason": "Changed mind",
+      "returned_orders": 145,
+      "lost_revenue": 49209.23
+    },
+    {
+      "return_reason": "Damaged",
+      "returned_orders": 125,
+      "lost_revenue": 44014.51
+    },
+    {
+      "return_reason": "Wrong item",
+      "returned_orders": 94,
+      "lost_revenue": 31112.79
+    },
+    {
+      "return_reason": "Arrived late",
+      "returned_orders": 87,
+      "lost_revenue": 28625.6
+    }
+  ]
+}
